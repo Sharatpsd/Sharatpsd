@@ -30,15 +30,17 @@ My goal is to build modern web applications and improve my **full-stack skills**
 
 ---
 
+
+
 ## 🌐 Connect with Me
 
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40">](https://github.com/Sharatpsd)  
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40">](https://www.linkedin.com/in/sharat-acharjee-49276830b/)  
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="40">](https://www.facebook.com/mugdho.acharjee.2025)  
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="40">](https://www.youtube.com/@mugdho.ontheway)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="40">](https://twitter.com/username)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="40">](https://www.instagram.com/username/)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="WhatsApp" height="40">](https://wa.me/880178720914)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="40">](https://www.instagram.com/sharat.acharjee/)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="WhatsApp" height="40">](https://wa.me/8801783720914)
+
 
 
 ---
