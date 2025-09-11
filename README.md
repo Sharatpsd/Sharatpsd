@@ -34,6 +34,8 @@ My goal is to build modern web applications and improve my **full-stack skills**
 
 ## 🌐 Connect with Me
 
+<p align="left">
+
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40">](https://github.com/Sharatpsd)  
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40">](https://www.linkedin.com/in/sharat-acharjee-49276830b/)  
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="40">](https://www.facebook.com/mugdho.acharjee.2025)  
@@ -41,6 +43,7 @@ My goal is to build modern web applications and improve my **full-stack skills**
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="40">](https://www.instagram.com/sharat.acharjee/)  
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="WhatsApp" height="40">](https://wa.me/8801783720914)
 
+</p>
 
 
 ---
