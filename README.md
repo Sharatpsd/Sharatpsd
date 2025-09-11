@@ -19,18 +19,27 @@ My goal is to build modern web applications and improve my **full-stack skills**
 </p>
 
 ---
-
-- 🔭 I’m currently working on: [E-commerce Project](https://github.com/Sharatpsd/E-Commerce-Project)  
+- 🔭 I’m currently working on: [E-Commerce Project](https://github.com/Sharatpsd/E-Commerce-Django)  
 - 💬 Ask me about: Python, Django, HTML, CSS, JS  
 - 📫 How to reach me: Sharatacharjee6@gmail.com  
+- 🌱 I’m currently learning: React, Redux, Tailwind CSS  
+- 👯 I’m looking to collaborate on: [Digital Library Project](https://github.com/Sharatpsd/digital-library-django)  
+- 🤝 I’m looking for help with: Django Deployment & Docker  
+- ⚡ Fun fact: I love coding late at night 😎
+
 
 ---
 
 ## 🌐 Connect with Me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sharatpsd)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sharat-acharjee-49276830b/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mugdho.acharjee.2025)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@mugdho.ontheway)  
+
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40">](https://github.com/Sharatpsd)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40">](https://www.linkedin.com/in/sharat-acharjee-49276830b/)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="40">](https://www.facebook.com/mugdho.acharjee.2025)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="40">](https://www.youtube.com/@mugdho.ontheway)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="40">](https://twitter.com/username)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="40">](https://www.instagram.com/username/)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="WhatsApp" height="40">](https://wa.me/880178720914)
+
 
 ---
 
@@ -51,10 +60,12 @@ My goal is to build modern web applications and improve my **full-stack skills**
 
 
 ---
+## 💼 Portfolio / Projects
 
-## 💻 Portfolio / Projects
-- [E-Commerce Project](https://github.com/Sharatpsd/E-Commerce-Project)  
-- [Quiz Game](https://github.com/Sharatpsd/Quiz-Game)  
+[![E-Commerce Django](https://img.shields.io/badge/E-Commerce-Django-blue?style=for-the-badge&logo=github)](https://github.com/Sharatpsd/E-Commerce-Django)  
+[![Sharat Portfolio](https://img.shields.io/badge/Sharat-Portfolio-green?style=for-the-badge&logo=github)](https://github.com/Sharatpsd/sharat-portfolio)  
+[![Django CRUD](https://img.shields.io/badge/Django-CRUD-orange?style=for-the-badge&logo=github)](https://github.com/Sharatpsd/A-simple-Django-CRUD-operations-project)  
+[![Digital Library](https://img.shields.io/badge/Digital-Library-red?style=for-the-badge&logo=github)](https://github.com/Sharatpsd/digital-library-django)
 
 ---
 
