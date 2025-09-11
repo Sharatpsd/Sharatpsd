@@ -1,7 +1,7 @@
 ### Hi there 👋, Sharat Acharja Mugdho 
 #### A passionate frontend developer and Django learner from Bangladesh
 A Computer Science & Engineering student from Bangladesh. I specialize in frontend development and currently learning React and Django.  
-<img width="1696" height="608" alt="Image" src="https://github.com/user-attachments/assets/32d05929-b841-4864-817a-826ddc1fb014" />
+![Image](https://github.com/user-attachments/assets/69467eda-bdd3-44d9-8aca-9a7fe8ddfc60)
 
 Skills: Python / Django / React / Html / CSS / jS
 
