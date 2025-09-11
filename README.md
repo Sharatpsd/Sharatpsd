@@ -60,12 +60,22 @@ My goal is to build modern web applications and improve my **full-stack skills**
 
 
 ---
+
+
 ## 💼 Portfolio / Projects
 
-[![E-Commerce Django](https://img.shields.io/badge/E-Commerce-Django-blue?style=for-the-badge&logo=github)](https://github.com/Sharatpsd/E-Commerce-Django)  
-[![Sharat Portfolio](https://img.shields.io/badge/Sharat-Portfolio-green?style=for-the-badge&logo=github)](https://github.com/Sharatpsd/sharat-portfolio)  
-[![Django CRUD](https://img.shields.io/badge/Django-CRUD-orange?style=for-the-badge&logo=github)](https://github.com/Sharatpsd/A-simple-Django-CRUD-operations-project)  
-[![Digital Library](https://img.shields.io/badge/Digital-Library-red?style=for-the-badge&logo=github)](https://github.com/Sharatpsd/digital-library-django)
-
----
+<p align="left">
+  <a href="https://github.com/Sharatpsd/E-Commerce-Django" target="_blank">
+    <img alt="E-Commerce Django" src="https://img.shields.io/badge/E--Commerce%20Django-blue?style=for-the-badge&logo=github" height="30"/>
+  </a>
+  <a href="https://github.com/Sharatpsd/sharat-portfolio" target="_blank">
+    <img alt="Sharat Portfolio" src="https://img.shields.io/badge/Sharat-Portfolio-green?style=for-the-badge&logo=github" height="30"/>
+  </a>
+  <a href="https://github.com/Sharatpsd/A-simple-Django-CRUD-operations-project" target="_blank">
+    <img alt="Django CRUD" src="https://img.shields.io/badge/Django-CRUD-orange?style=for-the-badge&logo=github" height="30"/>
+  </a>
+  <a href="https://github.com/Sharatpsd/digital-library-django" target="_blank">
+    <img alt="Digital Library" src="https://img.shields.io/badge/Digital-Library-red?style=for-the-badge&logo=github" height="30"/>
+  </a>
+</p>
 
