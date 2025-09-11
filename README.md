@@ -1,9 +1,12 @@
 ### Hi there 👋, Sharat Acharja Mugdho  
 ![Banner](https://github.com/user-attachments/assets/69467eda-bdd3-44d9-8aca-9a7fe8ddfc60)  
 
-#### A passionate frontend developer and Django learner from Bangladesh  
+## About Me
 
+#### A passionate frontend developer and Django learner from Bangladesh    
 A Computer Science & Engineering student from Bangladesh. I specialize in frontend development and currently learning React and Django.  
+My goal is to build modern web applications and improve my **full-stack skills**.
+
 
 Skills: Python / Django / React / HTML / CSS / JS  
 
@@ -37,10 +40,7 @@ Skills: Python / Django / React / HTML / CSS / JS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharatpsd&show_icons=true&count_private=true)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Sharatpsd)  
 
----
 
-## 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/Sharatpsd/Sharatpsd/output/github-contribution-grid-snake-dark.svg)  
 
 ---
 
@@ -50,6 +50,3 @@ Skills: Python / Django / React / HTML / CSS / JS
 
 ---
 
-## About Me
-I’m a passionate **frontend developer** and **Django learner** from Bangladesh.  
-My goal is to build modern web applications and improve my **full-stack skills**.
