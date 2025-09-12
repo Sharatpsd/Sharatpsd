@@ -4,9 +4,7 @@
 ## About Me
 
 #### A passionate django Devoloper from Bangladesh    
-A Computer Science & Engineering student from Bangladesh. I specialize in frontend development and currently learning React and Django.  
-My goal is to build modern web applications and improve my **full-stack skills**.
-
+As a CSE student at Green University of Bangladesh, I specialize in Django on the back end and am expanding my front-end skills using React. I’m dedicated to developing clean, responsive web apps and constantly improving my full-stack capabilities.
 ## 💻 Skills
 
 <p align="left">
