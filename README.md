@@ -31,17 +31,7 @@ As a CSE student at Green University of Bangladesh, I specialize in Django on th
 
 
 ## 🌐 Connect with Me
-
-<p align="left">
-
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40">](https://github.com/Sharatpsd)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40">](https://www.linkedin.com/in/sharat-acharjee-49276830b/)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="40">](https://www.facebook.com/mugdho.acharjee.2025)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="40">](https://www.youtube.com/@mugdho.ontheway)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="40">](https://www.instagram.com/sharat.acharjee/)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="WhatsApp" height="40">](https://wa.me/8801783720914)
-
-</p>
+<div align="center"> <a href="https://github.com/Sharatpsd"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.0.0/icons/github.svg" alt="GitHub" height="32" /> </a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/sharat-acharjee-49276830b/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.0.0/icons/linkedin.svg" alt="LinkedIn" height="32" /> </a> &nbsp; &nbsp; <a href="https://www.facebook.com/mugdho.acharjee.2025"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.0.0/icons/facebook.svg" alt="Facebook" height="32" /> </a> &nbsp; &nbsp; <a href="https://www.youtube.com/@mugdho.ontheway"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.0.0/icons/youtube.svg" alt="YouTube" height="32" /> </a> &nbsp; &nbsp; <a href="https://www.instagram.com/sharat.acharjee/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.0.0/icons/instagram.svg" alt="Instagram" height="32" /> </a> &nbsp; &nbsp; <a href="https://wa.me/8801783720914"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.0.0/icons/whatsapp.svg" alt="WhatsApp" height="32" /> </a> </div>
 
 
 ---
