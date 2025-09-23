@@ -57,17 +57,29 @@ See my portfolio here:https://mugdho-portfolio.netlify.app/
 ## 💼 Portfolio / Projects
 
 <p align="left">
-  <a href="https://github.com/Sharatpsd/E-Commerce-Django" target="_blank">
-    <img alt="E-Commerce Django" src="https://img.shields.io/badge/E--Commerce%20Django-blue?style=for-the-badge&logo=github" height="30"/>
+  <!-- Portfolio Website -->
+  <a href="https://github.com/Sharatpsd/sharat-portfolio.git" target="_blank">
+    <img alt="Portfolio Website" src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=github" height="30"/>
   </a>
-  <a href="https://github.com/Sharatpsd/sharat-portfolio" target="_blank">
-    <img alt="Sharat Portfolio" src="https://img.shields.io/badge/Sharat-Portfolio-green?style=for-the-badge&logo=github" height="30"/>
+  <a href="https://mugdho-portfolio.netlify.app/" target="_blank">
+    <img alt="Live Portfolio" src="https://img.shields.io/badge/Live-Portfolio-blue?style=for-the-badge&logo=vercel" height="30"/>
   </a>
-  <a href="https://github.com/Sharatpsd/A-simple-Django-CRUD-operations-project" target="_blank">
-    <img alt="Django CRUD" src="https://img.shields.io/badge/Django-CRUD-orange?style=for-the-badge&logo=github" height="30"/>
+  
+  <!-- Weather App -->
+  <a href="https://github.com/Sharatpsd/Django-Weather-App.git" target="_blank">
+    <img alt="Weather App GitHub" src="https://img.shields.io/badge/Weather-App-orange?style=for-the-badge&logo=github" height="30"/>
   </a>
-  <a href="https://github.com/Sharatpsd/digital-library-django" target="_blank">
-    <img alt="Digital Library" src="https://img.shields.io/badge/Digital-Library-red?style=for-the-badge&logo=github" height="30"/>
+  <a href="https://weather-c5n7.onrender.com/" target="_blank">
+    <img alt="Weather App Live" src="https://img.shields.io/badge/Live-Weather--App-blue?style=for-the-badge&logo=heroku" height="30"/>
+  </a>
+
+  <!-- Chai Order System -->
+  <a href="https://github.com/Sharatpsd/chai-order-system.git" target="_blank">
+    <img alt="Chai Order System" src="https://img.shields.io/badge/Chai-Order--System-red?style=for-the-badge&logo=github" height="30"/>
+  </a>
+
+  <!-- Mugdho Library -->
+  <a href="https://github.com/Sharatpsd/Mugdho-Library.git" target="_blank">
+    <img alt="Mugdho Library" src="https://img.shields.io/badge/Mugdho-Library-purple?style=for-the-badge&logo=github" height="30"/>
   </a>
 </p>
-
