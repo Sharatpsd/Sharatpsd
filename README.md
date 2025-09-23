@@ -2,7 +2,7 @@
 ![Banner](https://github.com/user-attachments/assets/69467eda-bdd3-44d9-8aca-9a7fe8ddfc60)  
 
 ## 🚀 About Me
-                                                          <h1> ### Hi there 👋,im Sharat Acharja Mugdho   </h1>
+                                                       ### Hi there 👋,im Sharat Acharja Mugdho  
                                                             
 #### A passionate django Devoloper from Bangladesh    
 As a CSE student at Green University of Bangladesh, I specialize in Django on the back end and am expanding my front-end skills using React. I’m dedicated to developing clean, responsive web apps and constantly improving my full-stack capabilities.
