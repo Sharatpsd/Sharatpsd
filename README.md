@@ -1,5 +1,5 @@
 
-![Banner](https://drive.google.com/file/d/1wjrRCr79jTiHtRXtFEZ1ZA571SB9MkQw/view?usp=sharing)  
+![Banner]https://drive.google.com/file/d/1wjrRCr79jTiHtRXtFEZ1ZA571SB9MkQw/view?usp=sharing)  
 
 ## 🚀 About Me
                                                 ### Hi there 👋,i'm Sharat Acharja Mugdho  
@@ -22,7 +22,7 @@ See my portfolio here:https://mugdho-portfolio.netlify.app/
 
 ---
 - 🔭 I’m currently working on: [E-Commerce Project](https://github.com/Sharatpsd/E-Commerce-Django)  
-- 💬 Ask me about: Python, Django,Django Restframework,APIS, HTML, CSS, JS  
+- 💬 Ask me about: Python, Django,Django RestfAPI,CRUD,JWT,AUTHENTICATION, HTML, CSS, JS  
 - 📫 How to reach me: Sharatacharjee6@gmail.com  
 - 🌱 I’m currently learning: React, Redux, Tailwind CSS  
 - 👯 I’m looking to collaborate on: [Digital Library Project](https://github.com/Sharatpsd/digital-library-django)  
