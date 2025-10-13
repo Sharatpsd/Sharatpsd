@@ -1,5 +1,5 @@
 
-![Banner](https://drive.google.com/uc?export=view&id=1wjrRCr79jTiHtRXtFEZ1ZA571SB9MkQw)
+![Banner](https://drive.google.com/file/d/1wjrRCr79jTiHtRXtFEZ1ZA571SB9MkQw/view?usp=sharing)
 
 
 ## 🚀 About Me
