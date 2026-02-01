@@ -1,87 +1,93 @@
-
 ![Banner](https://drive.google.com/uc?id=1wjrRCr79jTiHtRXtFEZ1ZA571SB9MkQw)
 
+<div align="center">
 
+<h1>Hi There! 👋 I'm Sharat Acharja Mugdho</h1>
+
+<p>
+  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Passionate+Django+Developer;Full-Stack+Enthusiast+from+Bangladesh;Building+Clean+%26+Scalable+Web+Apps;Mastering+React+%26+Redux;Let's+Create+Something+Awesome!+🚀">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Passionate+Django+Developer;Full-Stack+Enthusiast+from+Bangladesh;Building+Clean+%26+Scalable+Web+Apps;Mastering+React+%26+Redux;Let's+Create+Something+Awesome!+🚀" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Visitor Badge -->
+<img src="https://komarev.com/ghpvc/?username=Sharatpsd&label=Profile+Views&color=00FF9D&style=flat-square" alt="Profile views" />
+
+</div>
+
+<br/>
 
 ## 🚀 About Me
-                                                ### Hi there 👋,i'm Sharat Acharja Mugdho  
-                                                            
-#### A passionate django Devoloper from Bangladesh    
-As a CSE student at Green University of Bangladesh, I specialize in Django on the back end and am expanding my front-end skills using React. I’m dedicated to developing clean, responsive web apps and constantly improving my full-stack capabilities.
+- 🎓 **CSE Student** @ Green University of Bangladesh  
+- 💻 **Specializing in**: Django (Backend) + React (Frontend)  
+- 🌱 Currently learning: **React**, **Redux**, **Tailwind CSS**  
+- 🔭 Working on: [E-Commerce Project](https://github.com/Sharatpsd/E-Commerce-Django)  
+- 👯 Looking to collaborate on: [Digital Library Project](https://github.com/Sharatpsd/digital-library-django)  
+- 🤝 Need help with: Django Deployment, Docker  
+- 📫 Reach me: **Sharatacharjee6@gmail.com**  
+- ⚡ Fun fact: I love coding late at night with chai ☕😎  
 
-See my portfolio here:https://mugdho-portfolio.netlify.app/
+<br/>
 
-## 💻 Skills
+## 💻 Tech Stack
 
-<p align="left">
-  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img alt="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
-  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,react,html,css,js,git,github,vscode,postman,redux,tailwind&perline=6" alt="Tech Stack" />
+</div>
 
----
-- 🔭 I’m currently working on: [E-Commerce Project](https://github.com/Sharatpsd/E-Commerce-Django)  
-- 💬 Ask me about: Python, Django,Django RestfAPI,CRUD,JWT,AUTHENTICATION, HTML, CSS, JS  
-- 📫 How to reach me: Sharatacharjee6@gmail.com  
-- 🌱 I’m currently learning: React, Redux, Tailwind CSS  
-- 👯 I’m looking to collaborate on: [Digital Library Project](https://github.com/Sharatpsd/digital-library-django)  
-- 🤝 I’m looking for help with: Django Deployment & Docker  
-- ⚡ Fun fact: I love coding late at night 😎
+<br/>
 
+## 🏆 GitHub Stats
 
----
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sharatpsd&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sharatpsd&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak Stats" />
+</div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sharatpsd&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=1&column=6" alt="Trophies" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharatpsd&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
 
-## 🌐 Connect with Me
-<div align="center"> <a href="https://github.com/Sharatpsd"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.0.0/icons/github.svg" alt="GitHub" height="32" /> </a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/sharat-acharjee-49276830b/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.0.0/icons/linkedin.svg" alt="LinkedIn" height="32" /> </a> &nbsp; &nbsp; <a href="https://www.facebook.com/mugdho.acharjee.2025"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.0.0/icons/facebook.svg" alt="Facebook" height="32" /> </a> &nbsp; &nbsp; <a href="https://www.youtube.com/@mugdho.ontheway"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.0.0/icons/youtube.svg" alt="YouTube" height="32" /> </a> &nbsp; &nbsp; <a href="https://www.instagram.com/sharat.acharjee/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.0.0/icons/instagram.svg" alt="Instagram" height="32" /> </a> &nbsp; &nbsp; <a href="https://wa.me/8801783720914"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.0.0/icons/whatsapp.svg" alt="WhatsApp" height="32" /> </a> </div>
+<br/>
 
+## 🌟 Featured Projects
 
----
+<div align="center">
 
-## 🏆 Badges
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+| Project | Description | Links |
+|---------|-------------|-------|
+| **E-Commerce Django** | Full-featured online shop with Django & DRF | [GitHub](https://github.com/Sharatpsd/E-Commerce-Django) |
+| **Digital Library** | Book management system with authentication | [GitHub](https://github.com/Sharatpsd/digital-library-django) |
+| **Weather App** | Real-time weather using APIs | [GitHub](https://github.com/Sharatpsd/Django-Weather-App) • [Live](https://weather-c5n7.onrender.com/) |
+| **Chai Order System** | Simple order management fun project | [GitHub](https://github.com/Sharatpsd/chai-order-system) |
+| **Mugdho Library** | Personal library tracker | [GitHub](https://github.com/Sharatpsd/Mugdho-Library) |
+| **Portfolio** | My personal showcase site | [GitHub](https://github.com/Sharatpsd/sharat-portfolio) • [Live](https://mugdho-portfolio.netlify.app/) |
 
----
+</div>
 
+<br/>
 
+## 🌐 Let's Connect
 
----
+<div align="center">
 
+<a href="https://github.com/Sharatpsd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/sharat-acharjee-49276830b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &nbsp;
+<a href="https://www.facebook.com/mugdho.acharjee.2025"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a> &nbsp;
+<a href="https://www.youtube.com/@mugdho.ontheway"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a> &nbsp;
+<a href="https://www.instagram.com/sharat.acharjee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> &nbsp;
+<a href="https://wa.me/8801783720914"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
-## 💼 Portfolio / Projects
+</div>
 
-<p align="left">
-  <!-- Portfolio Website -->
-  <a href="https://github.com/Sharatpsd/sharat-portfolio.git" target="_blank">
-    <img alt="Portfolio Website" src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=github" height="30"/>
-  </a>
-  <a href="https://mugdho-portfolio.netlify.app/" target="_blank">
-    <img alt="Live Portfolio" src="https://img.shields.io/badge/Live-Portfolio-blue?style=for-the-badge&logo=vercel" height="30"/>
-  </a>
-  
-  <!-- Weather App -->
-  <a href="https://github.com/Sharatpsd/Django-Weather-App.git" target="_blank">
-    <img alt="Weather App GitHub" src="https://img.shields.io/badge/Weather-App-orange?style=for-the-badge&logo=github" height="30"/>
-  </a>
-  <a href="https://weather-c5n7.onrender.com/" target="_blank">
-    <img alt="Weather App Live" src="https://img.shields.io/badge/Live-Weather--App-blue?style=for-the-badge&logo=heroku" height="30"/>
-  </a>
+<br/>
 
-  <!-- Chai Order System -->
-  <a href="https://github.com/Sharatpsd/chai-order-system.git" target="_blank">
-    <img alt="Chai Order System" src="https://img.shields.io/badge/Chai-Order--System-red?style=for-the-badge&logo=github" height="30"/>
-  </a>
+<div align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-in%20Bangladesh-green?style=for-the-badge" alt="Made in BD" />
+</div>
 
-  <!-- Mugdho Library -->
-  <a href="https://github.com/Sharatpsd/Mugdho-Library.git" target="_blank">
-    <img alt="Mugdho Library" src="https://img.shields.io/badge/Mugdho-Library-purple?style=for-the-badge&logo=github" height="30"/>
-  </a>
-</p>
+<br/>
