@@ -28,7 +28,7 @@ Backend-focused full-stack developer from Dhaka, Bangladesh.
 I specialize in **Django**, **Django REST Framework**, secure & scalable APIs, and clean React integrations.  
 Building production-ready web apps with real-world focus: performance, security, and maintainability.
 
-- 🎓 **CSE Undergraduate** @ Green University of Bangladesh  
+- 🎓 **CSE graduate** @ Green University of Bangladesh  
 - 💼 **Internship**: Backend Developer @ Robo Tech Valley (Oct–Dec 2025)  
 - 🔭 Currently working on: Scalable e-commerce, AI tools & more  
 - 🌱 Leveling up: TypeScript, Redux Toolkit, Docker, Advanced Tailwind  
