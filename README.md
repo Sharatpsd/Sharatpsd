@@ -1,4 +1,4 @@
-![Banner](https://drive.google.com/uc?id=1wjrRCr79jTiHtRXtFEZ1ZA571SB9MkQw)
+![Banner](https://drive.google.com/file/d/1PQx4Dd0IIqGwIqQJckGN_K1WvjLhnmga/view?usp=sharing)
 
 <div align="center">
   <h1>Hi There! 👋 I'm Sharat Acharja Mugdho</h1>
