@@ -1,39 +1,50 @@
 ![Banner](https://drive.google.com/uc?id=1wjrRCr79jTiHtRXtFEZ1ZA571SB9MkQw)
 
 <div align="center">
+  <h1>Hi There! 👋 I'm Sharat Acharja Mugdho</h1>
+  
+  <p>
+    <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=10b981&center=true&vCenter=true&width=600&lines=Backend-Focused+Full-Stack+Developer;Django+%26+React+Specialist;Building+Production-Ready+Web+Apps;Dhaka%2C+Bangladesh;Let's+Build+Something+Impactful!+🚀">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=10b981&center=true&vCenter=true&width=600&lines=Backend-Focused+Full-Stack+Developer;Django+%26+React+Specialist;Building+Production-Ready+Web+Apps;Dhaka%2C+Bangladesh;Let's+Build+Something+Impactful!+🚀" alt="Typing SVG" />
+    </a>
+  </p>
 
-<h1>Hi There! 👋 I'm Sharat Acharja Mugdho</h1>
-
-<p>
-  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Passionate+Django+Developer;Full-Stack+Enthusiast+from+Bangladesh;Building+Clean+%26+Scalable+Web+Apps;Mastering+React+%26+Redux;Let's+Create+Something+Awesome!+🚀">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Passionate+Django+Developer;Full-Stack+Enthusiast+from+Bangladesh;Building+Clean+%26+Scalable+Web+Apps;Mastering+React+%26+Redux;Let's+Create+Something+Awesome!+🚀" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=Sharatpsd&label=Profile+Views&color=10b981&style=flat-square" alt="Profile views" />
+  
+  <br/><br/>
+  <a href="https://portfolio-mugdho-acharja.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit+My+Portfolio-10b981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-</p>
-
-<!-- Visitor Badge -->
-<img src="https://komarev.com/ghpvc/?username=Sharatpsd&label=Profile+Views&color=00FF9D&style=flat-square" alt="Profile views" />
-
 </div>
 
 <br/>
 
 ## 🚀 About Me
+Backend-focused full-stack developer specializing in **Django** & **Django REST Framework**.  
+I build clean, secure, scalable systems with production in mind — from database design & authentication to performant APIs and React frontend integration.
+
 - 🎓 **CSE Student** @ Green University of Bangladesh  
-- 💻 **Specializing in**: Django (Backend) + React (Frontend)  
-- 🌱 Currently learning: **React**, **Redux**, **Tailwind CSS**  
-- 🔭 Working on: [E-Commerce Project](https://github.com/Sharatpsd/E-Commerce-Django)  
-- 👯 Looking to collaborate on: [Digital Library Project](https://github.com/Sharatpsd/digital-library-django)  
-- 🤝 Need help with: Django Deployment, Docker  
-- 📫 Reach me: **Sharatacharjee6@gmail.com**  
-- ⚡ Fun fact: I love coding late at night with chai ☕😎  
+- 💻 Specializing in: **Django**, **DRF**, **React**, **PostgreSQL**  
+- 🌱 Currently diving deeper into: **TypeScript**, **Redux**, **Tailwind CSS**, **Docker**  
+- 🔭 Working on: Production-grade e-commerce & AI-integrated apps  
+- 📫 Reach me: **sharatacharjee6@gmail.com**  
+- ⚡ Fun fact: I code best at night with chai ☕ and focus music 🎧  
 
 <br/>
 
-## 💻 Tech Stack
+## 💻 Technical Expertise
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,html,css,js,git,github,vscode,postman,redux,tailwind&perline=6" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,django,react,ts,html,css,tailwind,redux,postgres,mysql,redis,mongodb,docker,git,github,linux,postman&perline=8" alt="Tech Stack" />
 </div>
+
+<br/>
+
+**Core Strengths** (inspired by my portfolio):
+- Backend: Python (95%), Django (92%), DRF (90%), REST APIs (88%), JWT (85%)  
+- Frontend: React (87%), Tailwind (92%), TypeScript (84%)  
+- Databases: PostgreSQL (91%), Redis (82%)  
+- Tools: Docker (84%), Git (96%), CI/CD (82%)  
 
 <br/>
 
@@ -41,7 +52,7 @@
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sharatpsd&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sharatpsd&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sharatpsd&theme=radical&hide_border=true" alt="Streak Stats" />
 </div>
 
 <div align="center">
@@ -54,40 +65,52 @@
 
 <br/>
 
-## 🌟 Featured Projects
+## 🌟 Featured Projects & Experience
 
-<div align="center">
+- **Backend Developer Intern** @ Robo Tech Valley (Oct–Dec 2025)  
+  Built full e-commerce platform with Django, JWT auth, Swagger docs, agile collaboration  
+  → [View Certificate](https://drive.google.com/file/d/1a1vq8o_-_wrCj8YMlzKkf448TD9u0Hf_/view?usp=sharing)
 
-| Project | Description | Links |
-|---------|-------------|-------|
-| **E-Commerce Django** | Full-featured online shop with Django & DRF | [GitHub](https://github.com/Sharatpsd/E-Commerce-Django) |
-| **Digital Library** | Book management system with authentication | [GitHub](https://github.com/Sharatpsd/digital-library-django) |
-| **Weather App** | Real-time weather using APIs | [GitHub](https://github.com/Sharatpsd/Django-Weather-App) • [Live](https://weather-c5n7.onrender.com/) |
-| **Chai Order System** | Simple order management fun project | [GitHub](https://github.com/Sharatpsd/chai-order-system) |
-| **Mugdho Library** | Personal library tracker | [GitHub](https://github.com/Sharatpsd/Mugdho-Library) |
-| **Portfolio** | My personal showcase site | [GitHub](https://github.com/Sharatpsd/sharat-portfolio) • [Live](https://mugdho-portfolio.netlify.app/) |
+- **Bite — Food Delivery Platform**  
+  Scalable full-featured delivery app with REST architecture  
+  Tech: DRF, React, PostgreSQL, JWT, Tailwind, Redis
 
-</div>
+- **Daily Dairy Shop — E-Commerce**  
+  Production-grade dairy e-commerce with admin & inventory  
+  Tech: Django, PostgreSQL, Cloudinary, Celery, Tailwind
+
+- **Smart Career — ML Prediction**  
+  AI career recommendation system  
+  Tech: Python, Django, Scikit-learn, Pandas
+
+- Other Projects:  
+  [E-Commerce Django](https://github.com/Sharatpsd/E-Commerce-Django) • [Digital Library](https://github.com/Sharatpsd/digital-library-django) • [Weather App (Live)](https://weather-c5n7.onrender.com/)
+
+→ Full showcase: [portfolio-mugdho-acharja.netlify.app](https://portfolio-mugdho-acharja.netlify.app/)
+
+<br/>
+
+## 📄 Featured Research
+
+**Explainable Deep Learning for Multi-Disease Ocular Classification and Severity-Aware Myopia Analysis** (2024–2025)  
+End-to-end explainable AI for retinal disease detection using ResNet50, Grad-CAM + SHAP.  
+→ [Read Full Paper](https://drive.google.com/file/d/1EkV9sDJQ2V4Pq7loVsDbD5z4v42Br2lD/view)
 
 <br/>
 
 ## 🌐 Let's Connect
 
 <div align="center">
-
-<a href="https://github.com/Sharatpsd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> &nbsp;
-<a href="https://www.linkedin.com/in/sharat-acharjee-49276830b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &nbsp;
-<a href="https://www.facebook.com/mugdho.acharjee.2025"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a> &nbsp;
-<a href="https://www.youtube.com/@mugdho.ontheway"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a> &nbsp;
-<a href="https://www.instagram.com/sharat.acharjee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> &nbsp;
-<a href="https://wa.me/8801783720914"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-
+  <a href="https://github.com/Sharatpsd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> &nbsp;
+  <a href="https://www.linkedin.com/in/sharat-acharjee-49276830b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &nbsp;
+  <a href="mailto:sharatacharjee6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> &nbsp;
+  <a href="https://wa.me/8801783720914"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-in%20Bangladesh-green?style=for-the-badge" alt="Made in BD" />
+  <img src="https://img.shields.io/badge/Made%20with%20❤️-in%20Bangladesh-10b981?style=for-the-badge" alt="Made in BD" />
 </div>
 
 <br/>
