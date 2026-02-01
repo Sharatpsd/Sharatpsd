@@ -1,11 +1,11 @@
-![Banner](https://drive.google.com/uc?id=1wjrRCr79jTiHtRXtFEZ1ZA571SB9MkQw)
+![Banner](https://drive.google.com/uc?export=view&id=1PQx4Dd0IIqGwIqQJckGN_K1WvjLhnmga)
 
 <div align="center">
   <h1>Hi There! 👋 I'm Sharat Acharja Mugdho</h1>
   
   <p>
-    <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=10b981&center=true&vCenter=true&width=600&lines=Backend-Focused+Full-Stack+Developer;Django+%26+React+Specialist;Building+Production-Ready+Web+Apps;Dhaka%2C+Bangladesh;Let's+Build+Something+Impactful!+🚀">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=10b981&center=true&vCenter=true&width=600&lines=Backend-Focused+Full-Stack+Developer;Django+%26+React+Specialist;Building+Production-Ready+Web+Apps;Dhaka%2C+Bangladesh;Let's+Build+Something+Impactful!+🚀" alt="Typing SVG" />
+    <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=10b981&center=true&vCenter=true&width=600&lines=Backend-Focused+Full-Stack+Developer;Django+%26+DRF+Specialist;Python+Web+Developer;Aspiring+React+Frontend+Enthusiast;Building+Production-Grade+Apps+🚀">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=10b981&center=true&vCenter=true&width=600&lines=Backend-Focused+Full-Stack+Developer;Django+%26+DRF+Specialist;Python+Web+Developer;Aspiring+React+Frontend+Enthusiast;Building+Production-Grade+Apps+🚀" alt="Typing SVG" />
     </a>
   </p>
 
@@ -15,36 +15,29 @@
   <a href="https://portfolio-mugdho-acharja.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Visit+My+Portfolio-10b981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+  &nbsp;
+  <a href="https://portfolio-mugdho-acharja.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live+Portfolio-10b981?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Portfolio" />
+  </a>
 </div>
 
 <br/>
 
 ## 🚀 About Me
-Backend-focused full-stack developer specializing in **Django** & **Django REST Framework**.  
-I build clean, secure, scalable systems with production in mind — from database design & authentication to performant APIs and React frontend integration.
-
 - 🎓 **CSE Student** @ Green University of Bangladesh  
-- 💻 Specializing in: **Django**, **DRF**, **React**, **PostgreSQL**  
-- 🌱 Currently diving deeper into: **TypeScript**, **Redux**, **Tailwind CSS**, **Docker**  
-- 🔭 Working on: Production-grade e-commerce & AI-integrated apps  
-- 📫 Reach me: **sharatacharjee6@gmail.com**  
-- ⚡ Fun fact: I code best at night with chai ☕ and focus music 🎧  
+- 💻 **Specializing in**: Django (Backend Expert), Django REST Framework, Python Web Development  
+- 🌱 Currently leveling up: React, TypeScript, Tailwind CSS, Redux, Docker  
+- 🔭 Focused on: Production-ready apps, scalable APIs, secure authentication  
+- 📫 Reach me: **sharatacharjee6@gmail.com** | WhatsApp: +8801783720914  
+- ⚡ Fun fact: I code late nights in Mirpur, Dhaka with chai and focus playlists ☕🎧  
 
 <br/>
 
-## 💻 Technical Expertise
+## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,ts,html,css,tailwind,redux,postgres,mysql,redis,mongodb,docker,git,github,linux,postman&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,django,react,ts,html,css,tailwind,redux,postgres,redis,docker,git,github,vscode,postman,linux&perline=8" alt="Tech Stack" />
 </div>
-
-<br/>
-
-**Core Strengths** (inspired by my portfolio):
-- Backend: Python (95%), Django (92%), DRF (90%), REST APIs (88%), JWT (85%)  
-- Frontend: React (87%), Tailwind (92%), TypeScript (84%)  
-- Databases: PostgreSQL (91%), Redis (82%)  
-- Tools: Docker (84%), Git (96%), CI/CD (82%)  
 
 <br/>
 
@@ -65,36 +58,25 @@ I build clean, secure, scalable systems with production in mind — from databas
 
 <br/>
 
-## 🌟 Featured Projects & Experience
+## 🌟 Featured Projects & Highlights
 
 - **Backend Developer Intern** @ Robo Tech Valley (Oct–Dec 2025)  
-  Built full e-commerce platform with Django, JWT auth, Swagger docs, agile collaboration  
-  → [View Certificate](https://drive.google.com/file/d/1a1vq8o_-_wrCj8YMlzKkf448TD9u0Hf_/view?usp=sharing)
+  Built full e-commerce with Django, JWT, Swagger, agile practices → [Certificate](https://drive.google.com/uc?export=download&id=1a1vq8o_-_wrCj8YMlzKkf448TD9u0Hf_)
 
-- **Bite — Food Delivery Platform**  
-  Scalable full-featured delivery app with REST architecture  
-  Tech: DRF, React, PostgreSQL, JWT, Tailwind, Redis
+- **Bite — Food Delivery Platform** (DRF + React + PostgreSQL + Redis)  
+- **Daily Dairy Shop** (Production e-commerce with Celery & admin panel)  
+- **Smart Career** (ML-based career prediction using Scikit-learn + Django)  
 
-- **Daily Dairy Shop — E-Commerce**  
-  Production-grade dairy e-commerce with admin & inventory  
-  Tech: Django, PostgreSQL, Cloudinary, Celery, Tailwind
-
-- **Smart Career — ML Prediction**  
-  AI career recommendation system  
-  Tech: Python, Django, Scikit-learn, Pandas
-
-- Other Projects:  
-  [E-Commerce Django](https://github.com/Sharatpsd/E-Commerce-Django) • [Digital Library](https://github.com/Sharatpsd/digital-library-django) • [Weather App (Live)](https://weather-c5n7.onrender.com/)
-
-→ Full showcase: [portfolio-mugdho-acharja.netlify.app](https://portfolio-mugdho-acharja.netlify.app/)
+Full projects, live demos & source code:  
+👉 [portfolio-mugdho-acharja.netlify.app](https://portfolio-mugdho-acharja.netlify.app/)
 
 <br/>
 
-## 📄 Featured Research
+## 📄 Research Paper
 
-**Explainable Deep Learning for Multi-Disease Ocular Classification and Severity-Aware Myopia Analysis** (2024–2025)  
-End-to-end explainable AI for retinal disease detection using ResNet50, Grad-CAM + SHAP.  
-→ [Read Full Paper](https://drive.google.com/file/d/1EkV9sDJQ2V4Pq7loVsDbD5z4v42Br2lD/view)
+**Explainable Deep Learning for Ocular Disease Classification** (2024–2025)  
+Multi-disease detection with ResNet50, Grad-CAM & SHAP interpretability  
+→ [Read Full Paper](https://drive.google.com/uc?export=download&id=1EkV9sDJQ2V4Pq7loVsDbD5z4v42Br2lD)
 
 <br/>
 
@@ -104,13 +86,14 @@ End-to-end explainable AI for retinal disease detection using ResNet50, Grad-CAM
   <a href="https://github.com/Sharatpsd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> &nbsp;
   <a href="https://www.linkedin.com/in/sharat-acharjee-49276830b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &nbsp;
   <a href="mailto:sharatacharjee6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> &nbsp;
-  <a href="https://wa.me/8801783720914"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://wa.me/8801783720914"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a> &nbsp;
+  <a href="https://www.facebook.com/mugdho.acharjee.2025"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20❤️-in%20Bangladesh-10b981?style=for-the-badge" alt="Made in BD" />
+  <img src="https://img.shields.io/badge/Made%20with%20❤️%20in%20Dhaka%2C%20Bangladesh-10b981?style=for-the-badge" alt="Made in Dhaka" />
 </div>
 
 <br/>
