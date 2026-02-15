@@ -1,4 +1,4 @@
-![Banner](https://drive.google.com/uc?export=view&id=1PQx4Dd0IIqGwIqQJckGN_K1WvjLhnmga)
+<img src="https://raw.githubusercontent.com/Sharatpsd/Sharatpsd/main/banner.png" width="100%" />
 
 <div align="center">
 
