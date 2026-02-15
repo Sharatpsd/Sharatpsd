@@ -1,8 +1,9 @@
-<img src="https://raw.githubusercontent.com/Sharatpsd/Sharatpsd/main/banner.png" width="100%" />
 
-<div align="center">
 
 <h1>Hi 👋 I'm Sharat Acharja Mugdho</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=2000&color=10B981&center=false&vCenter=true&width=600&height=40&lines=Backend-Focused+Full-Stack+Developer;Django+%26+DRF+Specialist;Building+Scalable+Production+Systems;Clean+Architecture+%7C+Secure+APIs" />
+
 <h3>Backend-Focused Full-Stack Developer | Django & DRF Specialist</h3>
 
 <p>
