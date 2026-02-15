@@ -2,23 +2,37 @@
 
 <div align="center">
 
-  <h1>Hey there! 👋 I'm Sharat Acharja Mugdho</h1>
+<h1>Hi 👋 I'm Sharat Acharja Mugdho</h1>
+<h3>Backend-Focused Full-Stack Developer | Django & DRF Specialist</h3>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1500&color=10b981&center=true&vCenter=true&width=700&height=60&lines=Backend-Focused+Full-Stack+Developer;Django+%26+DRF+Expert;Python+Powerhouse;Scaling+React+Frontend;Production-Grade+Web+Apps;Dhaka%2C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;Let's+Build+Something+Epic!+🚀🔥" alt="Dynamic Typing" />
+<p>
+Building scalable backend systems with clean architecture, secure APIs, and production-ready deployments.
+</p>
 
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=Sharatpsd&label=Profile+Views&color=10b981&style=for-the-badge&logo=starship&labelColor=000000" alt="Profile Views" />
+<br/>
 
-  <br/><br/>
-  <a href="https://portfolio-mugdho-acharja.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Explore+My+Portfolio-10b981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://portfolio-mugdho-acharja.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live+Site-10b981?style=for-the-badge&logo=netlify&logoColor=white&labelColor=000" alt="Live Site" />
-  </a>
+<a href="http://sharat2061.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐 Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/sharat-acharjee-49276830b/" target="_blank">
+  <img src="https://img.shields.io/badge/💼 LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://wa.me/8801783720914" target="_blank">
+  <img src="https://img.shields.io/badge/📱 WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:sharatacharjee6@gmail.com">
+  <img src="https://img.shields.io/badge/📧 Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Sharatpsd&label=Profile+Views&color=10b981&style=for-the-badge&labelColor=000000" />
 
 </div>
+
 
 <br/><br/>
 
