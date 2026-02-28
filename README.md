@@ -58,7 +58,7 @@ I focus on building reliable, performant systems — especially APIs that scale 
 
 <div align="center">
   <img 
-    src="https://skillicons.dev/icons?i=python,django,fastapi,react,ts,html,css,tailwind,redux,postgres,mysql,redis,mongodb,docker,git,github,linux,vscode,postman,vercel,netlify&perline=10" 
+    src="https://skillicons.dev/icons?i=python,django,fastapi,react,ts,html,css,tailwind,postgres,mysql,redis,docker,git,github,linux,vscode,postman,vercel,netlify&perline=10" 
     alt="Tech stack icons"
   />
 </div>
