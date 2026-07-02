@@ -132,85 +132,93 @@ Every project below is deployed and live — not just committed to a repo.
 <br>
 
 <!-- ============================== PROJECTS ============================== -->
-## Featured Projects
 
-<table width="100%">
+## 🚀 Featured Projects
+
+<table>
 
 <tr>
-<td width="35%">
-<!-- Replace with an actual screenshot of the Bite home/dashboard page -->
-<img width="100%" src="https://placehold.co/640x400/0D1117/10B981?text=Bite+%E2%80%94+Screenshot&font=source-sans-pro" alt="Bite screenshot placeholder" />
-</td>
-<td width="65%" valign="top">
+<td width="33%" valign="top">
 
-### Bite — Food Delivery Platform
+### 🍔 Bite — Food Delivery Platform
 
 Production-ready food delivery platform supporting customers, vendors, and administrators with secure authentication, role-based access control, payment integration, and scalable REST APIs.
+
+**Tech Stack**
 
 `Django` `DRF` `React` `PostgreSQL` `JWT` `Tailwind CSS`
 
 **Highlights**
-- Multi-role architecture — customer, vendor, and admin flows on one backend
-- JWT-secured authentication with role-based access control
-- Full cart → checkout → order lifecycle with payment integration
-- Deployed with optimized PostgreSQL queries for production traffic
+- Multi-role authentication (Customer, Vendor & Admin)
+- Secure JWT Authentication & RBAC
+- Cart, Checkout & Order Management
+- Production-ready REST APIs
 
-<a href="https://github.com/Sharatpsd/Food-Delivery-App-"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=10B981" /></a>
-<a href="https://bite-bd.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-0D1117?style=for-the-badge&logo=render&logoColor=10B981" /></a>
+<br>
+
+<a href="https://github.com/Sharatpsd/Food-Delivery-App-">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://bite-bd.onrender.com/">
+<img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+</a>
 
 </td>
-</tr>
 
-<tr><td colspan="2"><br></td></tr>
+<td width="33%" valign="top">
 
-<tr>
-<td width="35%">
-<!-- Replace with an actual screenshot of the Daily Dairy Shop storefront or admin panel -->
-<img width="100%" src="https://placehold.co/640x400/0D1117/10B981?text=Daily+Dairy+Shop+%E2%80%94+Screenshot&font=source-sans-pro" alt="Daily Dairy Shop screenshot placeholder" />
-</td>
-<td width="65%" valign="top">
+### 🥛 Daily Dairy Shop
 
-### Daily Dairy Shop — E-Commerce Backend
+Modern e-commerce backend featuring authentication, products, shopping cart, order processing, Docker deployment, Cloudinary integration, and automated CI/CD.
 
-Modern e-commerce backend supporting authentication, product catalog, shopping cart, and order processing — with Docker deployment, Cloudinary media integration, and automated CI/CD workflows.
+**Tech Stack**
 
-`Django` `PostgreSQL` `Docker` `GitHub Actions` `Cloudinary`
+`Django` `PostgreSQL` `Docker` `Cloudinary` `GitHub Actions`
 
 **Highlights**
-- Relational schema designed around products, cart, and order control
-- Customized Django admin for day-to-day inventory management
-- Cloudinary integration for product media storage
-- CI/CD pipeline (GitHub Actions) for automated deployment
+- Product & Inventory Management
+- Shopping Cart & Orders
+- Dockerized Deployment
+- CI/CD Automation
 
-<a href="https://github.com/Sharatpsd/DailyDairyShop"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=10B981" /></a>
-<a href="https://dailydairyshop-3.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-0D1117?style=for-the-badge&logo=render&logoColor=10B981" /></a>
+<br>
+
+<a href="https://github.com/Sharatpsd/DailyDairyShop">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://dailydairyshop-3.onrender.com/">
+<img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+</a>
 
 </td>
-</tr>
 
-<tr><td colspan="2"><br></td></tr>
+<td width="33%" valign="top">
 
-<tr>
-<td width="35%">
-<!-- Replace with an actual screenshot of the Chai Order System dashboard -->
-<img width="100%" src="https://placehold.co/640x400/0D1117/10B981?text=Chai+Order+System+%E2%80%94+Screenshot&font=source-sans-pro" alt="Chai Order System screenshot placeholder" />
-</td>
-<td width="65%" valign="top">
+### ☕ Chai Order System
 
-### Chai Order System — Order Management Platform
+Modern order management system featuring Redis caching, Celery background jobs, Docker deployment, and role-based access control.
 
-Order management platform featuring dynamic pricing logic, Redis caching, Celery background tasks, role-based access control, and a modular backend architecture.
+**Tech Stack**
 
 `Django` `Redis` `Celery` `SQLite` `Docker`
 
 **Highlights**
-- Dynamic pricing engine with role-based access control
-- Redis caching and Celery for background/async task processing
-- Modular Django app structure built for maintainability
-- Containerized with Docker for repeatable deployment
+- Dynamic Pricing Engine
+- Celery Background Tasks
+- Redis Integration
+- Modular Backend Architecture
 
-<a href="https://github.com/Sharatpsd/chai-order-system"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=10B981" /></a>
-<a href="https://chai-order-system-5.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-0D1117?style=for-the-badge&logo=render&logoColor=10B981" /></a>
+<br>
+
+<a href="https://github.com/Sharatpsd/chai-order-system">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://chai-order-system-5.onrender.com/">
+<img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+</a>
 
 </td>
 </tr>
@@ -219,12 +227,17 @@ Order management platform featuring dynamic pricing logic, Redis caching, Celery
 
 <div align="center">
 
-More projects and architecture notes → <a href="https://sharatpsd.netlify.app/"><b>sharatpsd.netlify.app</b></a>
+### 🌐 Explore More Projects
+
+Visit my portfolio for additional projects, architecture notes, live demos, and technical details.
+
+<a href="https://sharatpsd.netlify.app/">
+<img src="https://img.shields.io/badge/Visit_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </div>
 
-<br>
-
+---
 <!-- ============================== EXPERIENCE ============================== -->
 ## Experience
 
