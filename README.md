@@ -282,28 +282,19 @@ An end-to-end deep learning pipeline for multi-disease retinal classification, b
 
 <br>
 
-<!-- ============================== GITHUB STATS ============================== -->
-## GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sharatpsd&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=C9D1D9" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharatpsd&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=10B981&text_color=C9D1D9" alt="Top Languages" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sharatpsd&theme=react-dark&bg_color=0D1117&color=10B981&line=10B981&point=FFFFFF&area=true&hide_border=true" alt="Contribution Activity Graph" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sharatpsd&theme=onedark&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sharatpsd&theme=react-dark&bg_color=0D1117&color=10B981&line=10B981&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
-<!-- Snake animation: requires .github/workflows/snake.yml (included alongside this README)
-     to have run at least once so the output branch/SVG exists. -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sharatpsd/Sharatpsd/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
+<img src="https://raw.githubusercontent.com/Sharatpsd/Sharatpsd/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
-
 <br>
 
 <!-- ============================== CONTACT ============================== -->
