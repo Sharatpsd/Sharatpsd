@@ -1,24 +1,26 @@
 <!--
   README.md — GitHub Profile
   Owner: Sharat Acharja Mugdho (github.com/Sharatpsd)
+  Notes:
+    - Repo must be named exactly "Sharatpsd" (same as username) for this to render as the profile README.
+    - Screenshot placeholders below use placehold.co and are meant to be swapped for real project
+      screenshots — see the HTML comment above each <img> for the exact spot to replace.
+    - Snake animation requires the companion workflow file:
+        .github/workflows/snake.yml
+      delivered alongside this README. It needs one push / manual Action run before the SVG exists.
 
-  CHANGE LOG (v3 — confirmed role data):
-    - Filled in confirmed current role: Trainee Executive — MIS & ERP, Betopia Group (Jul 15, 2026 – Present)
-    - Updated Odoo version references to Odoo 19 throughout
-    - Added OWL/JavaScript to Enterprise stack badges to match actual daily stack
-    - Expanded Current Focus with real day-to-day responsibilities
-    - Removed all placeholder markers
-    - Kept: Django/DRF as primary backend identity, all 3 projects, research paper, certificate, AI/ML work
-
-  Snake animation still requires .github/workflows/snake.yml as before — unchanged.
+  UPDATE NOTE:
+    - Original layout and structure kept exactly as-is per request.
+    - Updated only: Header desc, typing lines, About section, Tech Stack (added Enterprise/ERP block),
+      and Experience timeline — to reflect current role at Betopia Group (Odoo 19, MIS & ERP).
 -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0D1117,10B981&text=Sharat%20Acharja%20Mugdho&fontColor=FFFFFF&fontSize=40&fontAlignY=36&desc=Backend%20Engineer%20%E2%80%94%20Evolving%20into%20Enterprise%20%26%20ERP%20Systems&descAlignY=58&descSize=16&animation=fadeIn" alt="Header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0D1117,10B981&text=Sharat%20Acharja%20Mugdho&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Backend%20Developer%20(Django)%20%E2%80%94%20Building%20Enterprise%20ERP%20with%20Odoo&descAlignY=58&descSize=16&animation=fadeIn" alt="Header banner" />
 
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&pause=2600&color=10B981&center=true&vCenter=true&width=720&height=40&lines=Python+%2F+Django+%2F+DRF+%2F+PostgreSQL;Enterprise+Systems+%26+Odoo+ERP;Building+Secure%2C+Production-Ready+Business+Software"
+  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=21&pause=2600&color=10B981&center=true&vCenter=true&width=680&height=40&lines=Modern+Full+Stack+Developer;Django+%2F+DRF+%2F+PostgreSQL+%2F+React;Odoo+19+ERP+%40+Betopia+Group;Building+Secure%2C+Production-Ready+Systems"
   alt="Typing animation"
 />
 
@@ -46,15 +48,13 @@
 <!-- ============================== ABOUT ============================== -->
 ## About
 
-I'm a **Python Backend Engineer** — Django and Django REST Framework are my strongest, most proven foundation — now also building **Enterprise ERP solutions with Odoo** in a production business environment.
+I build modern full-stack applications with a strong backend core — Django and DRF for the systems layer, React and TypeScript when a project needs a matching frontend, deployed as production-ready, cloud-hosted services rather than local demos. I'm currently a **Trainee Executive — MIS & ERP at Betopia Group**, developing and customizing **Odoo 19** ERP modules in a live production environment.
 
-My core strength is the same in both worlds: designing data models and access-controlled systems that hold up under real business rules — whether that's a REST endpoint serving a React frontend, or a custom Odoo module enforcing record rules for a multi-department workflow.
+My focus areas:
 
-What I bring to a team:
-
-- **API & systems design** — REST APIs with clear contracts, JWT/RBAC-based auth, and predictable error handling (Django/DRF)
-- **Enterprise data layer** — PostgreSQL schema design, Django ORM and Odoo ORM, query optimization under real usage
-- **ERP & business process automation** — Odoo 19 module development: custom addons, XML views/actions, ORM, business workflow customization, record rules, and access rights
+- **API design** — REST APIs with clear contracts, JWT/RBAC-based auth, and predictable error handling
+- **Data layer** — PostgreSQL schema design, Django ORM, query optimization under real usage
+- **Enterprise ERP (Odoo 19)** — custom module development, XML views, Odoo ORM, business workflow customization, access rights & record rules, and menu/action configuration
 - **Production readiness** — Docker-based deployment, CI/CD with GitHub Actions, Linux-based development, structured logging and error handling
 - **Automation & background work** — Celery + Redis for async tasks and caching
 - **AI-assisted software** — applied deep learning (ResNet50, Grad-CAM, SHAP) in published research, and a Django-based ML recommendation service in production-style projects
@@ -63,35 +63,12 @@ Every project below is deployed and live — not just committed to a repo.
 
 <br>
 
-<!-- ============================== CURRENT FOCUS ============================== -->
-## 🎯 Current Focus
-
-<table width="100%">
-<tr><td>
-
-**Trainee Executive — MIS & ERP, Betopia Group** · July 15, 2026 – Present
-
-- 🏢 Developing and customizing **Odoo 19** ERP modules for real business operations
-- 🐍 Backend development in **Python**, working directly with the **Odoo ORM**
-- 🧩 Creating and modifying **XML Views**, **Actions**, and **Menu** configurations
-- 🔁 Business workflow customization tailored to enterprise processes
-- 🔐 Implementing **Access Rights** and **Record Rules** for multi-role data security
-- 🗄️ **PostgreSQL** database operations — queries, data integrity, reporting
-- 🐛 Bug fixing and feature implementation in a live production ERP system
-- 🐧 Working daily in a **Linux**-based development environment with **Git** version control
-- 📈 Bridging Django/DRF API design patterns with Odoo's ORM and **OWL**/JavaScript frontend layer
-
-</td></tr>
-</table>
-
-<br>
-
 <!-- ============================== TECH STACK ============================== -->
 ## Tech Stack
 
 <table width="100%">
 <tr>
-<td valign="top" width="25%">
+<td valign="top" width="33%">
 
 **Languages**
 <br>
@@ -109,35 +86,14 @@ Every project below is deployed and live — not just committed to a repo.
 <img src="https://img.shields.io/badge/Celery-0D1117?style=flat-square&logo=celery&logoColor=10B981" />
 <img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=10B981" />
 
-</td>
-<td valign="top" width="25%">
-
 **Enterprise / ERP**
 <br>
 <img src="https://img.shields.io/badge/Odoo_19-0D1117?style=flat-square&logo=odoo&logoColor=10B981" />
 <img src="https://img.shields.io/badge/Odoo_ORM-0D1117?style=flat-square&logo=odoo&logoColor=10B981" />
 <img src="https://img.shields.io/badge/XML_Views-0D1117?style=flat-square&logo=xml&logoColor=10B981" />
 <img src="https://img.shields.io/badge/OWL_Framework-0D1117?style=flat-square&logo=odoo&logoColor=10B981" />
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=10B981" />
 <img src="https://img.shields.io/badge/Record_Rules-0D1117?style=flat-square&logo=odoo&logoColor=10B981" />
 <img src="https://img.shields.io/badge/Access_Rights-0D1117?style=flat-square&logo=odoo&logoColor=10B981" />
-<img src="https://img.shields.io/badge/Menu_%26_Actions-0D1117?style=flat-square&logo=odoo&logoColor=10B981" />
-
-**Frontend**
-<br>
-<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=10B981" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=10B981" />
-<img src="https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=10B981" />
-
-</td>
-<td valign="top" width="25%">
-
-**Database**
-<br>
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=10B981" />
-<img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=10B981" />
-<img src="https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=10B981" />
-<img src="https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=10B981" />
 
 **AI / ML**
 <br>
@@ -146,7 +102,20 @@ Every project below is deployed and live — not just committed to a repo.
 <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=10B981" />
 
 </td>
-<td valign="top" width="25%">
+<td valign="top" width="33%">
+
+**Frontend**
+<br>
+<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=10B981" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=10B981" />
+<img src="https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=10B981" />
+
+**Database**
+<br>
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=10B981" />
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=10B981" />
+<img src="https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=10B981" />
+<img src="https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=10B981" />
 
 **Cloud & DevOps**
 <br>
@@ -156,36 +125,25 @@ Every project below is deployed and live — not just committed to a repo.
 <img src="https://img.shields.io/badge/Render-0D1117?style=flat-square&logo=render&logoColor=10B981" />
 <img src="https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=10B981" />
 <img src="https://img.shields.io/badge/Netlify-0D1117?style=flat-square&logo=netlify&logoColor=10B981" />
+<img src="https://img.shields.io/badge/Cloudinary-0D1117?style=flat-square&logo=cloudinary&logoColor=10B981" />
 
-**Testing & Tools**
+</td>
+<td valign="top" width="33%">
+
+**Testing & API Tools**
 <br>
 <img src="https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=10B981" />
 <img src="https://img.shields.io/badge/Swagger-0D1117?style=flat-square&logo=swagger&logoColor=10B981" />
+
+**Developer Environment**
+<br>
 <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=10B981" />
+<img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=10B981" />
+<img src="https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=10B981" />
 
 </td>
 </tr>
 </table>
-
-<br>
-
-<!-- ============================== ARCHITECTURE ============================== -->
-## 🏗️ How I Think About Enterprise Systems
-
-A simplified view of how a request flows through a typical Odoo module I build — same layered discipline I apply on the Django/DRF side.
-
-```mermaid
-flowchart TD
-    A["User / Backoffice Action<br/>(OWL UI, QWeb Report, XML View)"] --> B["Odoo Controller / Action Layer"]
-    B --> C["Business Logic<br/>(Models, Compute Methods, Automated Actions)"]
-    C --> D["Access Control<br/>Record Rules + Access Rights (ir.rule / ir.model.access)"]
-    D --> E["Odoo ORM"]
-    E --> F[("PostgreSQL")]
-    C --> G["Async / Scheduled Jobs<br/>(Cron, Queue Jobs)"]
-    G --> E
-```
-
-**Why this matters:** enterprise software fails at the access-control and data-integrity layer, not the UI layer. I design record rules and access rights *before* building the view — the same way I design JWT/RBAC permissions before writing a Django view.
 
 <br>
 
@@ -296,27 +254,31 @@ Visit my portfolio for additional projects, architecture notes, live demos, and 
 </div>
 
 ---
-
 <!-- ============================== EXPERIENCE ============================== -->
 ## Experience
 
-| Period | Role | Focus |
-|---|---|---|
-| **Jul 2026 – Present** | **Trainee Executive — MIS & ERP**, Betopia Group | Developing and customizing **Odoo 19** ERP modules — Python backend logic, XML views, Odoo ORM, business workflow customization, access rights & record rules, actions/menu configuration, and PostgreSQL database operations in a Linux + Git environment |
-| **2025** | Backend Developer Intern, Robo Tech Valley (Dhaka) | Built and maintained REST APIs with Django REST Framework. Implemented JWT auth, refresh-token workflows, and RBAC for multi-role applications. ORM/query optimization and frontend integration. *(Certificate below)* |
-| **2024** | Research — Explainable Deep Learning for Multi-Disease Ocular Classification | IEEE-published; details below |
-| **2026** | B.Sc. in Computer Science & Engineering | Green University of Bangladesh — Graduated January 2026 |
-
-<br>
-
-<!-- ============================== ROADMAP ============================== -->
-## 🗺️ Roadmap
-
-- [ ] Odoo 19 functional + technical certification
-- [ ] Ship a fully independent custom Odoo module end-to-end (design → deployment)
-- [ ] Contribute to an open-source Odoo/OCA module
-- [ ] Deepen PostgreSQL performance tuning (indexing, query planning at scale)
-- [ ] Publish a technical write-up on Django ↔ Odoo architectural parallels
+```
+2026 ─┬─ Trainee Executive — MIS & ERP, Betopia Group (Dhaka)
+      │  Developing and customizing Odoo 19 ERP modules. Backend
+      │  development in Python, working with the Odoo ORM, XML
+      │  Views, business workflow customization, access rights &
+      │  record rules, and actions/menu configuration. PostgreSQL
+      │  database operations and bug fixing in a Linux + Git
+      │  development environment. (Jul 15, 2026 – Present)
+      │
+2026 ─┼─ B.Sc. in Computer Science & Engineering
+      │  Green University of Bangladesh — Graduated January 2026
+      │
+2025 ─┼─ Backend Developer Intern, Robo Tech Valley (Dhaka)
+      │  Built and maintained REST APIs with Django REST Framework.
+      │  Implemented JWT auth, refresh-token workflows, and RBAC for
+      │  multi-role applications. Worked on ORM/query optimization
+      │  and collaborated with frontend developers on API integration.
+      │  → Certificate: see Research & Credentials below
+      │
+2024 ─┴─ Research: Explainable Deep Learning for Multi-Disease
+         Ocular Classification (IEEE-published, details below)
+```
 
 <br>
 
@@ -348,36 +310,21 @@ An end-to-end deep learning pipeline for multi-disease retinal classification, b
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sharatpsd&show_icons=true&theme=react&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=FFFFFF&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharatpsd&layout=compact&theme=react&bg_color=0D1117&title_color=10B981&text_color=FFFFFF&hide_border=true" />
-
-<br><br>
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sharatpsd&theme=react-dark&bg_color=0D1117&color=10B981&line=10B981&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
-
-<details>
-<summary>🐍 Contribution Snake</summary>
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Sharatpsd/Sharatpsd/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
-
-</details>
-
 <br>
 
 <!-- ============================== CONTACT ============================== -->
 ## Contact
 
 <div align="center">
-
-Currently building enterprise ERP solutions as **Trainee Executive — MIS & ERP** at **Betopia Group**. Open to connecting on **Backend (Django/DRF)** and **Odoo ERP** engineering — always happy to talk shop.
-
-<br>
 
 <a href="https://sharatpsd.netlify.app/">
   <img src="https://img.shields.io/badge/🌐_Portfolio-0D1117?style=for-the-badge&logoColor=10B981" />
