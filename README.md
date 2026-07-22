@@ -2,21 +2,15 @@
   README.md — GitHub Profile
   Owner: Sharat Acharja Mugdho (github.com/Sharatpsd)
 
-  CHANGE LOG (v2 — Enterprise/Odoo positioning):
-    - Repositioned "About" around Backend Engineer -> Enterprise/ERP Systems Engineer evolution
-    - Added "Current Focus" section (Odoo, business process automation)
-    - Added Enterprise/Odoo Tech Stack row (ORM, XML views, OWL, QWeb, Record Rules, Access Rights)
-    - Added Mermaid architecture diagram (Odoo layered architecture)
-    - Restructured Experience as a table with a clear progression story
-    - Added Roadmap section (forward signal for reviewers)
-    - Swapped decorative snake-only analytics for a stats + top-languages pairing
-    - Kept: all 3 projects, research paper, certificate, Django/DRF identity, AI/ML work, visual style
+  CHANGE LOG (v3 — confirmed role data):
+    - Filled in confirmed current role: Trainee Executive — MIS & ERP, Betopia Group (Jul 15, 2026 – Present)
+    - Updated Odoo version references to Odoo 19 throughout
+    - Added OWL/JavaScript to Enterprise stack badges to match actual daily stack
+    - Expanded Current Focus with real day-to-day responsibilities
+    - Removed all placeholder markers
+    - Kept: Django/DRF as primary backend identity, all 3 projects, research paper, certificate, AI/ML work
 
-  ACTION NEEDED BEFORE PUBLISHING:
-    - Search/replace every <!-- TODO --> marker below with your confirmed job title, employer,
-      and dates for the current MIS/ERP role. I did not invent these — you know them, I don't.
-    - Confirm Odoo version(s) you work with (e.g., 17/18) in the Enterprise Stack section.
-    - Snake animation still requires .github/workflows/snake.yml as before — unchanged.
+  Snake animation still requires .github/workflows/snake.yml as before — unchanged.
 -->
 
 <div align="center">
@@ -52,16 +46,16 @@
 <!-- ============================== ABOUT ============================== -->
 ## About
 
-I'm a backend-focused full-stack developer, currently evolving into an **Enterprise Software Engineer** working across Django/DRF product engineering and **Odoo ERP** systems.
+I'm a **Python Backend Engineer** — Django and Django REST Framework are my strongest, most proven foundation — now also building **Enterprise ERP solutions with Odoo** in a production business environment.
 
-My core strength is the same in both worlds: designing data models and access-controlled APIs that hold up under real business rules — whether that's a REST endpoint serving a React frontend, or a custom Odoo module enforcing record rules for a multi-department workflow.
+My core strength is the same in both worlds: designing data models and access-controlled systems that hold up under real business rules — whether that's a REST endpoint serving a React frontend, or a custom Odoo module enforcing record rules for a multi-department workflow.
 
 What I bring to a team:
 
-- **API & systems design** — REST APIs with clear contracts, JWT/RBAC-based auth, and predictable error handling
+- **API & systems design** — REST APIs with clear contracts, JWT/RBAC-based auth, and predictable error handling (Django/DRF)
 - **Enterprise data layer** — PostgreSQL schema design, Django ORM and Odoo ORM, query optimization under real usage
-- **ERP & business process automation** — Odoo module development: custom addons, XML views/actions, record rules, access rights, and QWeb reporting
-- **Production readiness** — Docker-based deployment, CI/CD with GitHub Actions, structured logging and error handling
+- **ERP & business process automation** — Odoo 19 module development: custom addons, XML views/actions, ORM, business workflow customization, record rules, and access rights
+- **Production readiness** — Docker-based deployment, CI/CD with GitHub Actions, Linux-based development, structured logging and error handling
 - **Automation & background work** — Celery + Redis for async tasks and caching
 - **AI-assisted software** — applied deep learning (ResNet50, Grad-CAM, SHAP) in published research, and a Django-based ML recommendation service in production-style projects
 
@@ -72,16 +66,20 @@ Every project below is deployed and live — not just committed to a repo.
 <!-- ============================== CURRENT FOCUS ============================== -->
 ## 🎯 Current Focus
 
-<!-- TODO: replace bracketed items with your confirmed current role/employer details -->
-
 <table width="100%">
 <tr><td>
 
-- 🏢 Working on **MIS / ERP systems with Odoo** <!-- TODO: add employer/title if you want it named here -->, applying backend engineering discipline to enterprise business logic
-- 🔧 Building custom Odoo addons — models, views, actions, and workflow automation
-- 🔐 Implementing **Record Rules** and **Access Rights** for multi-role enterprise access control
-- 🗄️ PostgreSQL performance tuning for reporting-heavy, high-record-volume ERP workloads
-- 📈 Bridging Django/DRF API design patterns with Odoo's ORM and OWL/QWeb frontend layer
+**Trainee Executive — MIS & ERP, Betopia Group** · July 15, 2026 – Present
+
+- 🏢 Developing and customizing **Odoo 19** ERP modules for real business operations
+- 🐍 Backend development in **Python**, working directly with the **Odoo ORM**
+- 🧩 Creating and modifying **XML Views**, **Actions**, and **Menu** configurations
+- 🔁 Business workflow customization tailored to enterprise processes
+- 🔐 Implementing **Access Rights** and **Record Rules** for multi-role data security
+- 🗄️ **PostgreSQL** database operations — queries, data integrity, reporting
+- 🐛 Bug fixing and feature implementation in a live production ERP system
+- 🐧 Working daily in a **Linux**-based development environment with **Git** version control
+- 📈 Bridging Django/DRF API design patterns with Odoo's ORM and **OWL**/JavaScript frontend layer
 
 </td></tr>
 </table>
@@ -116,13 +114,14 @@ Every project below is deployed and live — not just committed to a repo.
 
 **Enterprise / ERP**
 <br>
-<img src="https://img.shields.io/badge/Odoo-0D1117?style=flat-square&logo=odoo&logoColor=10B981" />
+<img src="https://img.shields.io/badge/Odoo_19-0D1117?style=flat-square&logo=odoo&logoColor=10B981" />
 <img src="https://img.shields.io/badge/Odoo_ORM-0D1117?style=flat-square&logo=odoo&logoColor=10B981" />
 <img src="https://img.shields.io/badge/XML_Views-0D1117?style=flat-square&logo=xml&logoColor=10B981" />
-<img src="https://img.shields.io/badge/QWeb-0D1117?style=flat-square&logo=odoo&logoColor=10B981" />
 <img src="https://img.shields.io/badge/OWL_Framework-0D1117?style=flat-square&logo=odoo&logoColor=10B981" />
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=10B981" />
 <img src="https://img.shields.io/badge/Record_Rules-0D1117?style=flat-square&logo=odoo&logoColor=10B981" />
 <img src="https://img.shields.io/badge/Access_Rights-0D1117?style=flat-square&logo=odoo&logoColor=10B981" />
+<img src="https://img.shields.io/badge/Menu_%26_Actions-0D1117?style=flat-square&logo=odoo&logoColor=10B981" />
 
 **Frontend**
 <br>
@@ -301,11 +300,9 @@ Visit my portfolio for additional projects, architecture notes, live demos, and 
 <!-- ============================== EXPERIENCE ============================== -->
 ## Experience
 
-<!-- TODO: replace bracketed placeholders with confirmed employer, title, and dates -->
-
 | Period | Role | Focus |
 |---|---|---|
-| **2026 – Present** | **[Your Title]**, **[Employer Name]** | MIS / ERP systems on Odoo — custom module development, ORM-based business logic, XML views & actions, record rules, access rights, and PostgreSQL-backed reporting for business process automation |
+| **Jul 2026 – Present** | **Trainee Executive — MIS & ERP**, Betopia Group | Developing and customizing **Odoo 19** ERP modules — Python backend logic, XML views, Odoo ORM, business workflow customization, access rights & record rules, actions/menu configuration, and PostgreSQL database operations in a Linux + Git environment |
 | **2025** | Backend Developer Intern, Robo Tech Valley (Dhaka) | Built and maintained REST APIs with Django REST Framework. Implemented JWT auth, refresh-token workflows, and RBAC for multi-role applications. ORM/query optimization and frontend integration. *(Certificate below)* |
 | **2024** | Research — Explainable Deep Learning for Multi-Disease Ocular Classification | IEEE-published; details below |
 | **2026** | B.Sc. in Computer Science & Engineering | Green University of Bangladesh — Graduated January 2026 |
@@ -315,8 +312,8 @@ Visit my portfolio for additional projects, architecture notes, live demos, and 
 <!-- ============================== ROADMAP ============================== -->
 ## 🗺️ Roadmap
 
-- [ ] Odoo functional + technical certification
-- [ ] Ship a production Odoo module (custom addon) end-to-end
+- [ ] Odoo 19 functional + technical certification
+- [ ] Ship a fully independent custom Odoo module end-to-end (design → deployment)
 - [ ] Contribute to an open-source Odoo/OCA module
 - [ ] Deepen PostgreSQL performance tuning (indexing, query planning at scale)
 - [ ] Publish a technical write-up on Django ↔ Odoo architectural parallels
@@ -378,7 +375,7 @@ An end-to-end deep learning pipeline for multi-disease retinal classification, b
 
 <div align="center">
 
-Open to **Backend Developer**, **Django Full Stack**, and **MIS/ERP (Odoo) Software Engineer** roles in Dhaka and remote.
+Currently building enterprise ERP solutions as **Trainee Executive — MIS & ERP** at **Betopia Group**. Open to connecting on **Backend (Django/DRF)** and **Odoo ERP** engineering — always happy to talk shop.
 
 <br>
 
