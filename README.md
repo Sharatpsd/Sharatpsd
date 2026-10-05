@@ -1,53 +1,59 @@
 <!--
-  README.md — GitHub Profile
-  Owner: Sharat Acharja Mugdho (github.com/Sharatpsd)
+README.md — GitHub Profile
+Owner: Sharat Acharja Mugdho (github.com/Sharatpsd)
 
-  Notes:
-    - Repo must be named exactly "Sharatpsd" (same as username) to render as the profile README.
-    - Snake animation requires the companion workflow file:
-        .github/workflows/snake.yml
-      It needs one push / manual Action run before the SVG exists.
-    - Project screenshots are intentionally NOT included yet. Search for
-      "ADD SCREENSHOT" comments below to find the exact spots to drop real images
-      (recommended: 1200x630 PNG/WebP, committed to an /assets folder in this repo).
+2050 SYSTEM INTERFACE EDITION
 
-  REDESIGN NOTE (2026):
-    - Restructured into: Hero → Currently Building → Engineering Snapshot → About →
-      Tech Stack → Architecture → Featured Projects → Experience → Research →
-      Engineering Principles → GitHub Activity → Exploring Next → Beyond Code → Contact.
-    - Badge count reduced sharply; tech stack is now text-based and grouped.
-    - All original links, projects, experience, research, and credentials preserved.
+GitHub compatibility rules used:
+- No JavaScript
+- No custom CSS
+- No autoplay MP4
+- HTML limited to GitHub-safe structural tags
+- Mermaid used only for static architecture diagrams
+- Motion provided by external SVG services + GitHub Actions snake
+- Missing project visuals remain explicit TODOs
 -->
 
-<!-- ============================== HERO ============================== -->
+<!-- =========================================================
+00 / SYSTEM BOOT
+========================================================= -->
 
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D1117,50:10B981,100:0D1117" alt="" />
 
-<br><br>
-
-# Sharat Acharja Mugdho
-
-**Backend Engineer • Django • Odoo • PostgreSQL**
-
-Building production-oriented backend systems, REST APIs and enterprise ERP solutions.
-
 <br>
 
+<pre>
+SYSTEM://ENGINEERING_PROFILE
+STATUS  : ONLINE
+IDENTITY: SHARAT ACHARJA MUGDHO
+ROLE    : BACKEND ENGINEER
+NODE    : DHAKA / BANGLADESH
+</pre>
+
+# SHARAT ACHARJA MUGDHO
+
+### Backend Engineering · Enterprise ERP · REST APIs · Production Systems
+
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&pause=3200&color=10B981&center=true&vCenter=true&width=520&height=32&lines=Backend+Systems+with+Django;Enterprise+ERP+with+Odoo+19;REST+APIs+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis;Production-Oriented+Software"
-  alt="Backend Systems with Django — Enterprise ERP with Odoo 19 — REST APIs, PostgreSQL, Redis — Production-Oriented Software"
+  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=1800&pause=700&color=10B981&center=true&vCenter=true&repeat=true&width=720&height=45&lines=INITIALIZING+ENGINEERING+PROFILE...;LOADING+BACKEND+SYSTEMS...;LOADING+ERP+SYSTEMS...;LOADING+DATABASE+LAYER...;SYSTEM+READY."
+  alt="Engineering profile initialization sequence"
 />
 
 <br>
 
-<a href="https://sharatpsd.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logoColor=10B981" alt="Portfolio" /></a>
-<a href="https://github.com/Sharatpsd"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=10B981" alt="GitHub" /></a>
-<a href="https://linkedin.com/in/sharat-acharjya"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=10B981" alt="LinkedIn" /></a>
-<a href="mailto:sharatacharjee6@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=10B981" alt="Email" /></a>
+`DJANGO` · `ODOO 19` · `POSTGRESQL` · `PYTHON` · `REST APIs` · `ENTERPRISE SYSTEMS`
 
-<sub>Dhaka, Bangladesh</sub>
+<br><br>
+
+<a href="https://sharatpsd.netlify.app/"><b>PORTFOLIO</b></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/Sharatpsd"><b>GITHUB</b></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://linkedin.com/in/sharat-acharjya"><b>LINKEDIN</b></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:sharatacharjee6@gmail.com"><b>EMAIL</b></a>
 
 <br><br>
 
@@ -57,82 +63,34 @@ Building production-oriented backend systems, REST APIs and enterprise ERP solut
 
 <br>
 
-<!-- ============================== CURRENTLY BUILDING ============================== -->
+<!-- =========================================================
+01 / LIVE SYSTEM
+========================================================= -->
 
-## ⚡ Currently Building
-
-Enterprise ERP work at **Betopia Group** — customizing Odoo 19 for real business workflows.
-
-<table width="100%">
-<tr>
-<td align="center" width="33%"><strong>Odoo 19 ERP</strong><br><sub>Custom module development</sub></td>
-<td align="center" width="33%"><strong>Workflow Customization</strong><br><sub>Enterprise business processes</sub></td>
-<td align="center" width="33%"><strong>Python Backend</strong><br><sub>Odoo ORM &amp; server logic</sub></td>
-</tr>
-<tr>
-<td align="center"><strong>PostgreSQL</strong><br><sub>Database operations</sub></td>
-<td align="center"><strong>ERP Automation</strong><br><sub>Actions, menus &amp; rules</sub></td>
-<td align="center"><strong>Process Optimization</strong><br><sub>Access rights &amp; record rules</sub></td>
-</tr>
-</table>
-
-<br>
-
-<!-- ============================== ENGINEERING SNAPSHOT ============================== -->
-
-## Engineering Snapshot
+## `01 // LIVE SYSTEM`
 
 <table width="100%">
 <tr>
-<td align="center" width="16%"><sub>BACKEND</sub><br><strong>Django / DRF</strong></td>
-<td align="center" width="16%"><sub>ENTERPRISE</sub><br><strong>Odoo 19</strong></td>
-<td align="center" width="16%"><sub>DATABASE</sub><br><strong>PostgreSQL</strong></td>
-<td align="center" width="16%"><sub>ASYNC</sub><br><strong>Redis / Celery</strong></td>
-<td align="center" width="16%"><sub>DEVOPS</sub><br><strong>Docker / CI-CD</strong></td>
-<td align="center" width="16%"><sub>RESEARCH</sub><br><strong>Explainable AI</strong></td>
-</tr>
-</table>
+<td width="34%" valign="top">
 
-<br>
+### ENGINEERING STATUS
 
-<!-- ============================== ABOUT ============================== -->
-
-## About
-
-I build backend systems that are meant to run in production, not just in a demo: Django and DRF services with clear API contracts, JWT/RBAC authentication, PostgreSQL schemas designed for real query patterns, and Celery + Redis for background work and caching. Everything ships Dockerized, with CI/CD through GitHub Actions and a Linux-first workflow — every project on this profile is deployed and live.
-
-Currently I work as a **Trainee Executive — MIS & ERP at Betopia Group**, developing and customizing **Odoo 19** modules in a live production environment: Odoo ORM, XML views, business workflow customization, access rights and record rules. On the research side, I've published IEEE work on explainable deep learning (ResNet50, Grad-CAM, SHAP) — the engineering problems I care most about are correctness under real usage, query performance, and systems that stay auditable and maintainable as they grow.
-
-<br>
-
-<!-- ============================== TECH STACK ============================== -->
-
-## Tech Stack
-
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
-
-**Backend**
-<br>Python · Django · Django REST Framework · FastAPI · Celery · JWT
-
-**Enterprise / ERP**
-<br>Odoo 19 · Odoo ORM · XML Views · OWL · Record Rules · Access Rights
-
-**Database**
-<br>PostgreSQL · Redis · MySQL · SQLite
+<pre>
+● SYSTEMS      ONLINE
+● ERP          ODOO 19
+● BACKEND      DJANGO
+● DATABASE     POSTGRESQL
+● ENVIRONMENT  LINUX
+</pre>
 
 </td>
-<td valign="top" width="50%">
+<td width="66%" valign="top">
 
-**Frontend**
-<br>React · TypeScript · JavaScript · Tailwind CSS · Vite
+### CURRENT OPERATING CONTEXT
 
-**DevOps & Cloud**
-<br>Docker · Linux · GitHub Actions · Render · Vercel · Netlify · Cloudinary
+I build backend systems intended for real production use: Django and DRF services with clear API contracts, JWT/RBAC authentication, PostgreSQL-backed business logic, and Redis/Celery where asynchronous processing or caching is needed.
 
-**Tools & AI/ML**
-<br>Git · VS Code · Postman · Swagger · PyTorch · scikit-learn · Pandas
+My current enterprise work is at **Betopia Group**, where I develop and customize **Odoo 19** modules for live business workflows.
 
 </td>
 </tr>
@@ -140,182 +98,480 @@ Currently I work as a **Trainee Executive — MIS & ERP at Betopia Group**, deve
 
 <br>
 
-<!-- ============================== ARCHITECTURE ============================== -->
+<!-- =========================================================
+02 / CURRENTLY BUILDING
+========================================================= -->
 
-## How I Build Systems
+## `02 // CURRENTLY BUILDING`
 
-**Django backend architecture** — the shape most of my API projects follow:
+> **BETOPIA GROUP / ENTERPRISE ERP CONTROL PANEL**
 
-```mermaid
-flowchart TD
-    A[Client] --> B[Frontend — React / TypeScript]
-    B --> C[Django REST API]
-    C --> D[Business Logic]
-    D --> E[(PostgreSQL)]
-    D --> F[Redis + Celery — cache & background jobs]
-    C --> G[Docker / CI-CD — GitHub Actions]
-```
-
-**Odoo 19 architecture** — how enterprise customization flows at the ERP layer:
-
-```mermaid
-flowchart TD
-    A[Odoo UI] --> B[XML / OWL Views]
-    B --> C[Odoo Models — Python]
-    C --> D[Odoo ORM]
-    D --> E[(PostgreSQL)]
-```
-
-<br>
-
-<!-- ============================== FEATURED PROJECTS ============================== -->
-
-## Featured Projects
-
-<table>
+<table width="100%">
 <tr>
 <td width="33%" valign="top">
 
-### Bite — Food Delivery Platform
+**CORE ENGINE**
 
-<!-- ADD SCREENSHOT: replace this comment with
-<img src="assets/bite.png" alt="Bite food delivery platform — customer ordering interface" width="100%" />
-Recommended: 1200x630 real screenshot of the live app. -->
+`● ACTIVE`
 
-Production-deployed food delivery platform for customers, vendors, and administrators. Implemented multi-role ordering workflow with authenticated checkout, JWT-secured REST APIs, and role-based access control across the platform.
+Odoo 19 ERP  
+Python  
+Odoo ORM
 
-`Django` `DRF` `React` `PostgreSQL` `JWT` `Tailwind CSS`
+</td>
+<td width="33%" valign="top">
 
-- Multi-role authentication (Customer, Vendor, Admin)
+**INTERFACE LAYER**
+
+`● ACTIVE`
+
+XML Views  
+OWL  
+Actions & Menus
+
+</td>
+<td width="34%" valign="top">
+
+**CONTROL LAYER**
+
+`● ACTIVE`
+
+Workflow customization  
+Access Rights  
+Record Rules
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**DATA LAYER**
+
+PostgreSQL  
+Database operations
+
+</td>
+<td valign="top">
+
+**AUTOMATION**
+
+ERP automation  
+Business process logic
+
+</td>
+<td valign="top">
+
+**OPERATIONS**
+
+Linux  
+Git  
+Production debugging
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- =========================================================
+03 / ENGINEERING STACK
+========================================================= -->
+
+## `03 // ENGINEERING STACK`
+
+### SYSTEM PATH
+
+<div align="center">
+
+```text
+┌───────────────┐
+│    FRONTEND   │  React · TypeScript · JavaScript
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│   API LAYER   │  Django REST Framework · REST APIs
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│ BUSINESS CORE │  Python · Django · Odoo
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│   DATABASE    │  PostgreSQL · MySQL · SQLite
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│ ASYNC / CACHE │  Redis · Celery
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│    DELIVERY   │  Docker · GitHub Actions · Linux
+└───────────────┘
+```
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### BACKEND / ENTERPRISE
+
+**Backend**  
+Python · Django · Django REST Framework · FastAPI · Celery · JWT
+
+**Enterprise / ERP**  
+Odoo 19 · Odoo ORM · XML Views · OWL · Record Rules · Access Rights
+
+**Database**  
+PostgreSQL · Redis · MySQL · SQLite
+
+</td>
+<td width="50%" valign="top">
+
+### INTERFACE / DELIVERY
+
+**Frontend**  
+React · TypeScript · JavaScript · Tailwind CSS · Vite
+
+**DevOps & Cloud**  
+Docker · Linux · GitHub Actions · Render · Vercel · Netlify · Cloudinary
+
+**Tools & AI/ML**  
+Git · VS Code · Postman · Swagger · PyTorch · scikit-learn · Pandas
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- =========================================================
+04 / SYSTEM ARCHITECTURE
+========================================================= -->
+
+## `04 // SYSTEM ARCHITECTURE`
+
+### BACKEND SERVICE PIPELINE
+
+```mermaid
+flowchart LR
+    A[CLIENT] --> B[REACT / TYPESCRIPT]
+    B --> C[DJANGO REST API]
+    C --> D[BUSINESS LOGIC]
+    D --> E[(POSTGRESQL)]
+    D --> F[REDIS]
+    D --> G[CELERY]
+    C --> H[DOCKER]
+    H --> I[GITHUB ACTIONS]
+```
+
+### ENTERPRISE ERP PIPELINE
+
+```mermaid
+flowchart LR
+    A[ODOO UI] --> B[XML / OWL]
+    B --> C[PYTHON MODELS]
+    C --> D[ODOO ORM]
+    D --> E[(POSTGRESQL)]
+```
+
+> Mermaid is intentionally static here. GitHub does not execute JavaScript inside profile READMEs.  
+> For animated architecture, add a real animated SVG/GIF later at `assets/architecture/`.
+
+<!-- TODO: ADD REAL ASSET
+Recommended:
+assets/architecture/backend-flow.svg
+assets/architecture/erp-flow.svg
+Use SVG/GIF animation only if committed as a real asset.
+-->
+
+<br>
+
+<!-- =========================================================
+05 / PROJECTS
+========================================================= -->
+
+## `05 // PROJECT MATRIX`
+
+### PROJECT_01 — BITE / FOOD DELIVERY PLATFORM
+
+<table width="100%">
+<tr>
+<td width="42%" valign="top">
+
+<!-- TODO: ADD REAL ASSET
+<img src="assets/projects/bite-1200x630.webp" alt="Bite food delivery platform interface" width="100%" />
+Recommended real screenshot: 1200x630 WebP or PNG.
+-->
+
+```text
+SYSTEM TYPE
+Food Delivery Platform
+
+STACK
+Django / DRF / React
+PostgreSQL / JWT
+Tailwind CSS
+
+STATE
+PRODUCTION DEPLOYED
+```
+
+</td>
+<td width="58%" valign="top">
+
+**PROBLEM**  
+Support customers, vendors, and administrators inside one ordering platform.
+
+**IMPLEMENTATION**  
+A multi-role ordering workflow with authenticated checkout, JWT-secured REST APIs, and role-based access control.
+
+**ENGINEERING FEATURES**
+
+- Multi-role authentication: Customer, Vendor, Admin
 - JWT authentication with RBAC
-- Cart, checkout & order management workflow
+- Cart, checkout, and order management
 - Production-ready REST API layer
 
-<a href="https://github.com/Sharatpsd/Food-Delivery-App-"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=10B981" alt="Bite on GitHub" /></a>
-<a href="https://bite-bd.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logoColor=0D1117" alt="Bite live demo" /></a>
+**ACCESS**  
+[GitHub Repository](https://github.com/Sharatpsd/Food-Delivery-App-) · [Live Demo](https://bite-bd.onrender.com/)
 
 </td>
-<td width="33%" valign="top">
+</tr>
+</table>
 
-### Daily Dairy Shop
+---
 
-<!-- ADD SCREENSHOT: replace this comment with
-<img src="assets/daily-dairy-shop.png" alt="Daily Dairy Shop — product catalog and cart" width="100%" />
-Recommended: 1200x630 real screenshot of the live app. -->
+### PROJECT_02 — DAILY DAIRY SHOP
 
-E-commerce backend deployed as a Dockerized service with automated CI/CD. Covers authentication, product and inventory management, cart and order processing, with Cloudinary handling media storage.
+<table width="100%">
+<tr>
+<td width="42%" valign="top">
 
-`Django` `PostgreSQL` `Docker` `Cloudinary` `GitHub Actions`
+<!-- TODO: ADD REAL ASSET
+<img src="assets/projects/daily-dairy-shop-1200x630.webp" alt="Daily Dairy Shop product catalog and cart" width="100%" />
+Recommended real screenshot: 1200x630 WebP or PNG.
+-->
 
-- Product & inventory management
-- Shopping cart & order processing
+```text
+SYSTEM TYPE
+E-Commerce Backend
+
+STACK
+Django / PostgreSQL
+Docker / Cloudinary
+GitHub Actions
+
+STATE
+DEPLOYED
+```
+
+</td>
+<td width="58%" valign="top">
+
+**PROBLEM**  
+Handle authentication, products, inventory, cart operations, and orders in a deployable commerce system.
+
+**IMPLEMENTATION**  
+Dockerized backend with Cloudinary-backed media storage and GitHub Actions automation.
+
+**ENGINEERING FEATURES**
+
+- Product and inventory management
+- Shopping cart and order processing
 - Dockerized deployment pipeline
-- CI/CD automation with GitHub Actions
+- CI/CD with GitHub Actions
 
-<a href="https://github.com/Sharatpsd/DailyDairyShop"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=10B981" alt="Daily Dairy Shop on GitHub" /></a>
-<a href="https://dailydairyshop-3.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logoColor=0D1117" alt="Daily Dairy Shop live demo" /></a>
+**ACCESS**  
+[GitHub Repository](https://github.com/Sharatpsd/DailyDairyShop) · [Live Demo](https://dailydairyshop-3.onrender.com/)
 
 </td>
-<td width="33%" valign="top">
+</tr>
+</table>
 
-### Chai Order System
+---
 
-<!-- ADD SCREENSHOT: replace this comment with
-<img src="assets/chai-order-system.png" alt="Chai Order System — order management dashboard" width="100%" />
-Recommended: 1200x630 real screenshot of the live app. -->
+### PROJECT_03 — CHAI ORDER SYSTEM
 
-Order management system built around asynchronous processing: Celery background jobs with Redis for caching, a dynamic pricing engine, and role-based access control — packaged in a modular, Dockerized backend.
+<table width="100%">
+<tr>
+<td width="42%" valign="top">
 
-`Django` `Redis` `Celery` `SQLite` `Docker`
+<!-- TODO: ADD REAL ASSET
+<img src="assets/projects/chai-order-system-1200x630.webp" alt="Chai Order System order management dashboard" width="100%" />
+Recommended real screenshot: 1200x630 WebP or PNG.
+-->
+
+```text
+SYSTEM TYPE
+Order Management System
+
+STACK
+Django / Redis / Celery
+SQLite / Docker
+
+STATE
+DEPLOYED
+```
+
+</td>
+<td width="58%" valign="top">
+
+**PROBLEM**  
+Move slower work out of the request path while supporting pricing and role-aware order operations.
+
+**IMPLEMENTATION**  
+Modular backend using Celery for background task processing and Redis for caching.
+
+**ENGINEERING FEATURES**
 
 - Dynamic pricing engine
-- Celery background task processing
+- Celery background processing
 - Redis caching integration
 - Modular backend architecture
 
-<a href="https://github.com/Sharatpsd/chai-order-system"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=10B981" alt="Chai Order System on GitHub" /></a>
-<a href="https://chai-order-system-5.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logoColor=0D1117" alt="Chai Order System live demo" /></a>
+**ACCESS**  
+[GitHub Repository](https://github.com/Sharatpsd/chai-order-system) · [Live Demo](https://chai-order-system-5.onrender.com/)
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-<sub>More projects, architecture notes and live demos on the <a href="https://sharatpsd.netlify.app/">portfolio</a>.</sub>
+<sub>More projects, architecture notes, and live demos: <a href="https://sharatpsd.netlify.app/">sharatpsd.netlify.app</a></sub>
 </div>
 
 <br>
 
-<!-- ============================== EXPERIENCE ============================== -->
+<!-- =========================================================
+06 / EXPERIENCE
+========================================================= -->
 
-## Experience
+## `06 // EXPERIENCE TIMELINE`
 
-**Trainee Executive — MIS & ERP** · Betopia Group, Dhaka
-<br><sub>July 15, 2026 – Present</sub>
+```text
+2026 ─────────────────────────────────────────────────────────────► PRESENT
+       TRAINEE EXECUTIVE — MIS & ERP
+       BETOPIA GROUP · DHAKA
+       JULY 15, 2026 – PRESENT
 
-Developing and customizing Odoo 19 ERP modules in production. Backend development in Python with the Odoo ORM and XML views; business workflow customization; access rights and record rules; actions and menu configuration; PostgreSQL database operations and bug fixing in a Linux + Git environment.
+       Odoo 19 module development and customization
+       Python / Odoo ORM / XML views
+       Business workflow customization
+       Access rights / record rules
+       Actions / menu configuration
+       PostgreSQL operations
+       Linux + Git production debugging
 
----
 
-**Backend Developer Intern** · Robo Tech Valley, Dhaka
-<br><sub>2025</sub>
+2025 ─────────────────────────────────────────────────────────────►
+       BACKEND DEVELOPER INTERN
+       ROBO TECH VALLEY · DHAKA
 
-Built and maintained REST APIs with Django REST Framework. Implemented JWT auth, refresh-token workflows, and RBAC for multi-role applications. Worked on ORM/query optimization and collaborated with frontend developers on API integration. → Certificate under Research & Credentials below.
+       Django REST Framework APIs
+       JWT + refresh-token workflows
+       RBAC for multi-role applications
+       ORM / query optimization
+       Frontend API integration
 
----
 
-**B.Sc. in Computer Science & Engineering** · Green University of Bangladesh
-<br><sub>Graduated January 2026</sub>
-
-<br>
-
-<!-- ============================== RESEARCH ============================== -->
-
-## Research & Credentials
-
-<table width="100%">
-<tr><td>
-
-**📄 IEEE Published — Explainable Deep Learning for Multi-Disease Ocular Classification and Severity-Aware Myopia Analysis**
-
-An end-to-end deep learning pipeline for multi-disease retinal classification built around a **ResNet50** backbone, with explainability layers — **Grad-CAM** for visual attention mapping and **SHAP** for feature-level interpretability — so predictions stay auditable rather than acting as a black box.
-
-<a href="https://drive.google.com/file/d/1XVzO6kOMtIVtVqfTo52M3sQzBVn16Mk2/view"><img src="https://img.shields.io/badge/Read_the_Paper-0D1117?style=for-the-badge&logo=googlescholar&logoColor=10B981" alt="Read the paper" /></a>
-
-</td></tr>
-<tr><td>
-
-**🎓 Backend Developer Intern Certificate — Robo Tech Valley**
-
-<a href="https://drive.google.com/file/d/1Jw82jFGXPvliJHYxBPOUh6oIlpm-j8mE/view"><img src="https://img.shields.io/badge/View_Certificate-0D1117?style=for-the-badge&logo=googledrive&logoColor=10B981" alt="View certificate" /></a>
-
-</td></tr>
-</table>
+2026 ─────────────────────────────────────────────────────────────►
+       B.SC. IN COMPUTER SCIENCE & ENGINEERING
+       GREEN UNIVERSITY OF BANGLADESH
+       GRADUATED JANUARY 2026
+```
 
 <br>
 
-<!-- ============================== ENGINEERING PRINCIPLES ============================== -->
+<!-- =========================================================
+07 / RESEARCH LAB
+========================================================= -->
 
-## 🧠 Engineering Principles
+## `07 // RESEARCH LAB`
+
+### Explainable Deep Learning for Multi-Disease Ocular Classification and Severity-Aware Myopia Analysis
+
+**IEEE Published Research**
+
+```mermaid
+flowchart LR
+    A[MEDICAL IMAGE] --> B[RESNET50]
+    B --> C[PREDICTION]
+    C --> D[GRAD-CAM]
+    C --> E[SHAP]
+    D --> F[EXPLAINABLE RESULT]
+    E --> F
+```
 
 <table width="100%">
 <tr>
-<td valign="top" width="50%">
+<td width="25%" align="center"><b>MODEL</b><br><sub>ResNet50</sub></td>
+<td width="25%" align="center"><b>VISUAL XAI</b><br><sub>Grad-CAM</sub></td>
+<td width="25%" align="center"><b>INTERPRETABILITY</b><br><sub>SHAP</sub></td>
+<td width="25%" align="center"><b>DOMAIN</b><br><sub>Ocular Classification</sub></td>
+</tr>
+</table>
 
-- API-first design with clear contracts
-- Secure authentication (JWT, RBAC)
-- Database-aware development
-- Query optimization under real usage
-- Background processing for slow work
+The research builds an end-to-end deep learning pipeline for multi-disease retinal classification, with explainability layers so predictions can be inspected instead of treated purely as a black box.
+
+[Read the Paper](https://drive.google.com/file/d/1XVzO6kOMtIVtVqfTo52M3sQzBVn16Mk2/view)
+
+### Credential Node
+
+**Backend Developer Intern Certificate — Robo Tech Valley**
+
+[View Certificate](https://drive.google.com/file/d/1Jw82jFGXPvliJHYxBPOUh6oIlpm-j8mE/view)
+
+<br>
+
+<!-- =========================================================
+08 / ENGINEERING PHILOSOPHY
+========================================================= -->
+
+## `08 // ENGINEERING PHILOSOPHY`
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+```text
+[01] API-FIRST DESIGN
+     Clear contracts before complexity
+
+[02] JWT / RBAC
+     Authentication and authorization
+     treated as system architecture
+
+[03] DATABASE-AWARE DEVELOPMENT
+     Design around real access patterns
+
+[04] QUERY OPTIMIZATION
+     Measure the path data actually takes
+
+[05] BACKGROUND PROCESSING
+     Move slow work off critical paths
+```
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-- Modular architecture & separation of concerns
-- Production debugging over guesswork
-- CI/CD as the default, not an afterthought
-- Maintainability as a feature
-- Auditable systems — no black boxes
+```text
+[06] MODULAR ARCHITECTURE
+     Strong separation of concerns
+
+[07] PRODUCTION DEBUGGING
+     Evidence over guesswork
+
+[08] CI/CD
+     Delivery is part of engineering
+
+[09] MAINTAINABILITY
+     A system must remain understandable
+
+[10] AUDITABILITY
+     Avoid invisible black-box behavior
+```
 
 </td>
 </tr>
@@ -323,55 +579,100 @@ An end-to-end deep learning pipeline for multi-disease retinal classification bu
 
 <br>
 
-<!-- ============================== GITHUB ACTIVITY ============================== -->
+<!-- =========================================================
+09 / SYSTEM ACTIVITY
+========================================================= -->
 
-## GitHub Activity
+## `09 // SYSTEM ACTIVITY`
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sharatpsd&theme=react-dark&bg_color=0D1117&color=10B981&line=10B981&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Sharatpsd&theme=react-dark&bg_color=0D1117&color=10B981&line=10B981&point=FFFFFF&area=true&hide_border=true"
+  alt="Sharat Acharja Mugdho GitHub contribution activity graph"
+/>
 
-<img width="100%" src="https://raw.githubusercontent.com/Sharatpsd/Sharatpsd/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+<br>
+
+<img
+  width="100%"
+  src="https://raw.githubusercontent.com/Sharatpsd/Sharatpsd/output/github-contribution-grid-snake-dark.svg"
+  alt="Animated GitHub contribution snake"
+/>
 
 </div>
 
-<br>
-
-<!-- ============================== EXPLORING NEXT ============================== -->
-
-## 🔭 Exploring Next
-
-Areas I'm actively learning and deepening — distinct from my professional experience above:
-
-`FastAPI` · `Advanced PostgreSQL` · `Redis patterns` · `Celery at scale` · `System Design` · `Cloud / DevOps` · `Odoo OWL framework`
+> The snake requires the workflow included in `.github/workflows/snake.yml`.
 
 <br>
 
-<!-- ============================== BEYOND CODE ============================== -->
+<!-- =========================================================
+10 / NEXT SYSTEMS
+========================================================= -->
 
-## Beyond Code
+## `10 // NEXT SYSTEMS TO MASTER`
 
-Photography · Travel · Football — Real Madrid 🤍
+```text
+QUEUE / ACTIVE LEARNING
+
+[>] FastAPI
+[>] Advanced PostgreSQL
+[>] Redis patterns
+[>] Celery at scale
+[>] System Design
+[>] Cloud / DevOps
+[>] Odoo OWL framework
+```
+
+No fabricated percentages. These are active learning areas, not claimed mastery.
 
 <br>
 
-<!-- ============================== CONTACT ============================== -->
+<!-- =========================================================
+11 / BEYOND CODE
+========================================================= -->
+
+## `11 // BEYOND CODE`
+
+`PHOTOGRAPHY` · `TRAVEL` · `FOOTBALL / REAL MADRID`
+
+<sub>A small part of the interface. Engineering stays the main signal.</sub>
+
+<br>
+
+<!-- =========================================================
+12 / CONNECT
+========================================================= -->
 
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D1117,50:10B981,100:0D1117" alt="" />
 
+<br>
+
+## `12 // READY TO BUILD SOMETHING USEFUL?`
+
+Backend systems. Enterprise software. APIs. Production engineering.
+
+<br>
+
+<a href="https://sharatpsd.netlify.app/"><b>PORTFOLIO</b></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/Sharatpsd"><b>GITHUB</b></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://linkedin.com/in/sharat-acharjya"><b>LINKEDIN</b></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:sharatacharjee6@gmail.com"><b>EMAIL</b></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://wa.me/8801783720914"><b>WHATSAPP</b></a>
+
 <br><br>
 
-### Let's build something useful.
-
-<a href="https://sharatpsd.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logoColor=10B981" alt="Portfolio" /></a>
-<a href="https://github.com/Sharatpsd"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=10B981" alt="GitHub" /></a>
-<a href="https://linkedin.com/in/sharat-acharjya"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=10B981" alt="LinkedIn" /></a>
-<a href="mailto:sharatacharjee6@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=10B981" alt="Email" /></a>
-<a href="https://wa.me/8801783720914"><img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=10B981" alt="WhatsApp" /></a>
-
-<br><br>
 <sub>Dhaka, Bangladesh</sub>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D1117,50:10B981,100:0D1117" alt="" />
 
 </div>
