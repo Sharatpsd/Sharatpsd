@@ -4,32 +4,28 @@ Owner: Sharat Acharja Mugdho (github.com/Sharatpsd)
 
 2050 SYSTEM INTERFACE EDITION
 
-GitHub compatibility rules used:
+GitHub compatibility rules:
 - No JavaScript
 - No custom CSS
-- No autoplay MP4
-- HTML limited to GitHub-safe structural tags
-- Mermaid used only for static architecture diagrams
-- Motion provided by external SVG services + GitHub Actions snake
-- Missing project visuals remain explicit TODOs
+- No autoplay video
+- GitHub-safe Markdown + structural HTML only
+- Mermaid is used only for static architecture diagrams
+- Motion is provided by external SVG services and the contribution-snake asset
+- Missing project/research/architecture visuals remain explicit TODOs
 -->
-
-<!-- =========================================================
-00 / SYSTEM BOOT
-========================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D1117,50:10B981,100:0D1117" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0D1117,48:10B981,52:10B981,100:0D1117" alt="" />
 
 <br>
 
 <pre>
 SYSTEM://ENGINEERING_PROFILE
-STATUS  : ONLINE
-IDENTITY: SHARAT ACHARJA MUGDHO
-ROLE    : BACKEND ENGINEER
-NODE    : DHAKA / BANGLADESH
+STATUS   : ONLINE
+IDENTITY : SHARAT ACHARJA MUGDHO
+ROLE     : BACKEND ENGINEER
+LOCATION : DHAKA / BANGLADESH
 </pre>
 
 # SHARAT ACHARJA MUGDHO
@@ -37,13 +33,23 @@ NODE    : DHAKA / BANGLADESH
 ### Backend Engineering · Enterprise ERP · REST APIs · Production Systems
 
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=1800&pause=700&color=10B981&center=true&vCenter=true&repeat=true&width=720&height=45&lines=INITIALIZING+ENGINEERING+PROFILE...;LOADING+BACKEND+SYSTEMS...;LOADING+ERP+SYSTEMS...;LOADING+DATABASE+LAYER...;SYSTEM+READY."
+  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=1800&pause=650&color=10B981&center=true&vCenter=true&repeat=true&width=760&height=44&lines=INITIALIZING+ENGINEERING+PROFILE...;LOADING+BACKEND+SYSTEMS...;LOADING+ERP+SYSTEMS...;LOADING+DATABASE+LAYER...;SYSTEM+READY."
   alt="Engineering profile initialization sequence"
 />
 
 <br>
 
-`DJANGO` · `ODOO 19` · `POSTGRESQL` · `PYTHON` · `REST APIs` · `ENTERPRISE SYSTEMS`
+<code>DJANGO</code>
+&nbsp;·&nbsp;
+<code>ODOO 19</code>
+&nbsp;·&nbsp;
+<code>POSTGRESQL</code>
+&nbsp;·&nbsp;
+<code>PYTHON</code>
+&nbsp;·&nbsp;
+<code>REST APIs</code>
+&nbsp;·&nbsp;
+<code>ENTERPRISE SYSTEMS</code>
 
 <br><br>
 
@@ -57,23 +63,34 @@ NODE    : DHAKA / BANGLADESH
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D1117,50:10B981,100:0D1117" alt="" />
+<sub>
+<a href="#live-system">01 LIVE SYSTEM</a> ·
+<a href="#currently-building">02 BUILDING</a> ·
+<a href="#engineering-stack">03 STACK</a> ·
+<a href="#system-architecture">04 ARCHITECTURE</a> ·
+<a href="#project-matrix">05 PROJECTS</a> ·
+<a href="#experience-timeline">06 EXPERIENCE</a> ·
+<a href="#research-lab">07 RESEARCH</a> ·
+<a href="#system-activity">09 ACTIVITY</a>
+</sub>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0D1117,48:10B981,52:10B981,100:0D1117" alt="" />
 
 </div>
 
 <br>
 
-<!-- =========================================================
-01 / LIVE SYSTEM
-========================================================= -->
+<a id="live-system"></a>
 
 ## `01 // LIVE SYSTEM`
 
 <table width="100%">
 <tr>
-<td width="34%" valign="top">
+<td width="38%" valign="top">
 
-### ENGINEERING STATUS
+<h3>ENGINEERING STATUS</h3>
 
 <pre>
 ● SYSTEMS      ONLINE
@@ -84,13 +101,13 @@ NODE    : DHAKA / BANGLADESH
 </pre>
 
 </td>
-<td width="66%" valign="top">
+<td width="62%" valign="top">
 
-### CURRENT OPERATING CONTEXT
+<h3>OPERATING CONTEXT</h3>
 
 I build backend systems intended for real production use: Django and DRF services with clear API contracts, JWT/RBAC authentication, PostgreSQL-backed business logic, and Redis/Celery where asynchronous processing or caching is needed.
 
-My current enterprise work is at **Betopia Group**, where I develop and customize **Odoo 19** modules for live business workflows.
+My current enterprise work is at <b>Betopia Group</b>, where I develop and customize <b>Odoo 19</b> modules for live business workflows.
 
 </td>
 </tr>
@@ -98,9 +115,13 @@ My current enterprise work is at **Betopia Group**, where I develop and customiz
 
 <br>
 
-<!-- =========================================================
-02 / CURRENTLY BUILDING
-========================================================= -->
+<div align="center">
+<sub>INPUT → BUSINESS RULES → DATA → AUTOMATION → DELIVERY</sub>
+</div>
+
+<br>
+
+<a id="currently-building"></a>
 
 ## `02 // CURRENTLY BUILDING`
 
@@ -110,34 +131,37 @@ My current enterprise work is at **Betopia Group**, where I develop and customiz
 <tr>
 <td width="33%" valign="top">
 
-**CORE ENGINE**
+<b>CORE ENGINE</b><br>
+<code>● ACTIVE</code>
 
-`● ACTIVE`
+<br><br>
 
-Odoo 19 ERP  
-Python  
+Odoo 19 ERP<br>
+Python<br>
 Odoo ORM
 
 </td>
 <td width="33%" valign="top">
 
-**INTERFACE LAYER**
+<b>INTERFACE LAYER</b><br>
+<code>● ACTIVE</code>
 
-`● ACTIVE`
+<br><br>
 
-XML Views  
-OWL  
-Actions & Menus
+XML Views<br>
+OWL<br>
+Actions &amp; Menus
 
 </td>
 <td width="34%" valign="top">
 
-**CONTROL LAYER**
+<b>CONTROL LAYER</b><br>
+<code>● ACTIVE</code>
 
-`● ACTIVE`
+<br><br>
 
-Workflow customization  
-Access Rights  
+Workflow customization<br>
+Access Rights<br>
 Record Rules
 
 </td>
@@ -145,26 +169,23 @@ Record Rules
 <tr>
 <td valign="top">
 
-**DATA LAYER**
-
-PostgreSQL  
+<b>DATA LAYER</b><br><br>
+PostgreSQL<br>
 Database operations
 
 </td>
 <td valign="top">
 
-**AUTOMATION**
-
-ERP automation  
+<b>AUTOMATION</b><br><br>
+ERP automation<br>
 Business process logic
 
 </td>
 <td valign="top">
 
-**OPERATIONS**
-
-Linux  
-Git  
+<b>OPERATIONS</b><br><br>
+Linux<br>
+Git<br>
 Production debugging
 
 </td>
@@ -173,71 +194,78 @@ Production debugging
 
 <br>
 
-<!-- =========================================================
-03 / ENGINEERING STACK
-========================================================= -->
+<a id="engineering-stack"></a>
 
 ## `03 // ENGINEERING STACK`
 
 ### SYSTEM PATH
 
-<div align="center">
-
 ```text
-┌───────────────┐
-│    FRONTEND   │  React · TypeScript · JavaScript
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│   API LAYER   │  Django REST Framework · REST APIs
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│ BUSINESS CORE │  Python · Django · Odoo
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│   DATABASE    │  PostgreSQL · MySQL · SQLite
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│ ASYNC / CACHE │  Redis · Celery
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│    DELIVERY   │  Docker · GitHub Actions · Linux
-└───────────────┘
+┌────────────────┐
+│    FRONTEND    │  React · TypeScript · JavaScript
+└───────┬────────┘
+        │
+        ▼
+┌────────────────┐
+│   API LAYER    │  Django REST Framework · REST APIs
+└───────┬────────┘
+        │
+        ▼
+┌────────────────┐
+│ BUSINESS CORE  │  Python · Django · Odoo
+└───────┬────────┘
+        │
+        ▼
+┌────────────────┐
+│    DATABASE    │  PostgreSQL · MySQL · SQLite
+└───────┬────────┘
+        │
+        ▼
+┌────────────────┐
+│ ASYNC / CACHE  │  Redis · Celery
+└───────┬────────┘
+        │
+        ▼
+┌────────────────┐
+│    DELIVERY    │  Docker · GitHub Actions · Linux
+└────────────────┘
 ```
-
-</div>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### BACKEND / ENTERPRISE
+<h3>BACKEND / ENTERPRISE</h3>
 
-**Backend**  
+<b>Backend</b><br>
 Python · Django · Django REST Framework · FastAPI · Celery · JWT
 
-**Enterprise / ERP**  
+<br><br>
+
+<b>Enterprise / ERP</b><br>
 Odoo 19 · Odoo ORM · XML Views · OWL · Record Rules · Access Rights
 
-**Database**  
+<br><br>
+
+<b>Database</b><br>
 PostgreSQL · Redis · MySQL · SQLite
 
 </td>
 <td width="50%" valign="top">
 
-### INTERFACE / DELIVERY
+<h3>INTERFACE / DELIVERY</h3>
 
-**Frontend**  
+<b>Frontend</b><br>
 React · TypeScript · JavaScript · Tailwind CSS · Vite
 
-**DevOps & Cloud**  
+<br><br>
+
+<b>DevOps &amp; Cloud</b><br>
 Docker · Linux · GitHub Actions · Render · Vercel · Netlify · Cloudinary
 
-**Tools & AI/ML**  
+<br><br>
+
+<b>Tools &amp; AI/ML</b><br>
 Git · VS Code · Postman · Swagger · PyTorch · scikit-learn · Pandas
 
 </td>
@@ -246,9 +274,7 @@ Git · VS Code · Postman · Swagger · PyTorch · scikit-learn · Pandas
 
 <br>
 
-<!-- =========================================================
-04 / SYSTEM ARCHITECTURE
-========================================================= -->
+<a id="system-architecture"></a>
 
 ## `04 // SYSTEM ARCHITECTURE`
 
@@ -276,21 +302,20 @@ flowchart LR
     D --> E[(POSTGRESQL)]
 ```
 
-> Mermaid is intentionally static here. GitHub does not execute JavaScript inside profile READMEs.  
-> For animated architecture, add a real animated SVG/GIF later at `assets/architecture/`.
+> **Architecture note:** Mermaid is intentionally static. GitHub profile READMEs do not execute JavaScript. A real animated SVG/GIF can later replace or accompany these diagrams without breaking the static fallback.
 
 <!-- TODO: ADD REAL ASSET
-Recommended:
+Optional animation assets:
 assets/architecture/backend-flow.svg
 assets/architecture/erp-flow.svg
-Use SVG/GIF animation only if committed as a real asset.
+
+Recommended canvas: 1600x700.
+Keep the Mermaid diagrams until the real assets exist.
 -->
 
 <br>
 
-<!-- =========================================================
-05 / PROJECTS
-========================================================= -->
+<a id="project-matrix"></a>
 
 ## `05 // PROJECT MATRIX`
 
@@ -298,14 +323,14 @@ Use SVG/GIF animation only if committed as a real asset.
 
 <table width="100%">
 <tr>
-<td width="42%" valign="top">
+<td width="40%" valign="top">
 
 <!-- TODO: ADD REAL ASSET
 <img src="assets/projects/bite-1200x630.webp" alt="Bite food delivery platform interface" width="100%" />
 Recommended real screenshot: 1200x630 WebP or PNG.
 -->
 
-```text
+<pre>
 SYSTEM TYPE
 Food Delivery Platform
 
@@ -316,26 +341,39 @@ Tailwind CSS
 
 STATE
 PRODUCTION DEPLOYED
-```
+</pre>
 
 </td>
-<td width="58%" valign="top">
+<td width="60%" valign="top">
 
-**PROBLEM**  
+<b>PROBLEM</b><br>
 Support customers, vendors, and administrators inside one ordering platform.
 
-**IMPLEMENTATION**  
+<br><br>
+
+<b>ARCHITECTURE</b><br>
+React client → DRF API → authenticated business logic → PostgreSQL.
+
+<br><br>
+
+<b>IMPLEMENTATION</b><br>
 A multi-role ordering workflow with authenticated checkout, JWT-secured REST APIs, and role-based access control.
 
-**ENGINEERING FEATURES**
+<br><br>
 
-- Multi-role authentication: Customer, Vendor, Admin
-- JWT authentication with RBAC
-- Cart, checkout, and order management
-- Production-ready REST API layer
+<b>ENGINEERING FEATURES</b>
 
-**ACCESS**  
-[GitHub Repository](https://github.com/Sharatpsd/Food-Delivery-App-) · [Live Demo](https://bite-bd.onrender.com/)
+<ul>
+<li>Multi-role authentication: Customer, Vendor, Admin</li>
+<li>JWT authentication with RBAC</li>
+<li>Cart, checkout, and order management</li>
+<li>Production-ready REST API layer</li>
+</ul>
+
+<b>ACCESS</b><br>
+<a href="https://github.com/Sharatpsd/Food-Delivery-App-">GitHub Repository</a>
+&nbsp;·&nbsp;
+<a href="https://bite-bd.onrender.com/">Live Demo</a>
 
 </td>
 </tr>
@@ -347,14 +385,14 @@ A multi-role ordering workflow with authenticated checkout, JWT-secured REST API
 
 <table width="100%">
 <tr>
-<td width="42%" valign="top">
+<td width="40%" valign="top">
 
 <!-- TODO: ADD REAL ASSET
 <img src="assets/projects/daily-dairy-shop-1200x630.webp" alt="Daily Dairy Shop product catalog and cart" width="100%" />
 Recommended real screenshot: 1200x630 WebP or PNG.
 -->
 
-```text
+<pre>
 SYSTEM TYPE
 E-Commerce Backend
 
@@ -365,26 +403,39 @@ GitHub Actions
 
 STATE
 DEPLOYED
-```
+</pre>
 
 </td>
-<td width="58%" valign="top">
+<td width="60%" valign="top">
 
-**PROBLEM**  
+<b>PROBLEM</b><br>
 Handle authentication, products, inventory, cart operations, and orders in a deployable commerce system.
 
-**IMPLEMENTATION**  
+<br><br>
+
+<b>ARCHITECTURE</b><br>
+Django application → PostgreSQL data layer → Cloudinary media → Docker delivery workflow.
+
+<br><br>
+
+<b>IMPLEMENTATION</b><br>
 Dockerized backend with Cloudinary-backed media storage and GitHub Actions automation.
 
-**ENGINEERING FEATURES**
+<br><br>
 
-- Product and inventory management
-- Shopping cart and order processing
-- Dockerized deployment pipeline
-- CI/CD with GitHub Actions
+<b>ENGINEERING FEATURES</b>
 
-**ACCESS**  
-[GitHub Repository](https://github.com/Sharatpsd/DailyDairyShop) · [Live Demo](https://dailydairyshop-3.onrender.com/)
+<ul>
+<li>Product and inventory management</li>
+<li>Shopping cart and order processing</li>
+<li>Dockerized deployment pipeline</li>
+<li>CI/CD with GitHub Actions</li>
+</ul>
+
+<b>ACCESS</b><br>
+<a href="https://github.com/Sharatpsd/DailyDairyShop">GitHub Repository</a>
+&nbsp;·&nbsp;
+<a href="https://dailydairyshop-3.onrender.com/">Live Demo</a>
 
 </td>
 </tr>
@@ -396,14 +447,14 @@ Dockerized backend with Cloudinary-backed media storage and GitHub Actions autom
 
 <table width="100%">
 <tr>
-<td width="42%" valign="top">
+<td width="40%" valign="top">
 
 <!-- TODO: ADD REAL ASSET
 <img src="assets/projects/chai-order-system-1200x630.webp" alt="Chai Order System order management dashboard" width="100%" />
 Recommended real screenshot: 1200x630 WebP or PNG.
 -->
 
-```text
+<pre>
 SYSTEM TYPE
 Order Management System
 
@@ -413,26 +464,39 @@ SQLite / Docker
 
 STATE
 DEPLOYED
-```
+</pre>
 
 </td>
-<td width="58%" valign="top">
+<td width="60%" valign="top">
 
-**PROBLEM**  
+<b>PROBLEM</b><br>
 Move slower work out of the request path while supporting pricing and role-aware order operations.
 
-**IMPLEMENTATION**  
+<br><br>
+
+<b>ARCHITECTURE</b><br>
+Django request layer → business logic → Redis/Celery background processing → SQLite persistence.
+
+<br><br>
+
+<b>IMPLEMENTATION</b><br>
 Modular backend using Celery for background task processing and Redis for caching.
 
-**ENGINEERING FEATURES**
+<br><br>
 
-- Dynamic pricing engine
-- Celery background processing
-- Redis caching integration
-- Modular backend architecture
+<b>ENGINEERING FEATURES</b>
 
-**ACCESS**  
-[GitHub Repository](https://github.com/Sharatpsd/chai-order-system) · [Live Demo](https://chai-order-system-5.onrender.com/)
+<ul>
+<li>Dynamic pricing engine</li>
+<li>Celery background processing</li>
+<li>Redis caching integration</li>
+<li>Modular backend architecture</li>
+</ul>
+
+<b>ACCESS</b><br>
+<a href="https://github.com/Sharatpsd/chai-order-system">GitHub Repository</a>
+&nbsp;·&nbsp;
+<a href="https://chai-order-system-5.onrender.com/">Live Demo</a>
 
 </td>
 </tr>
@@ -444,14 +508,12 @@ Modular backend using Celery for background task processing and Redis for cachin
 
 <br>
 
-<!-- =========================================================
-06 / EXPERIENCE
-========================================================= -->
+<a id="experience-timeline"></a>
 
 ## `06 // EXPERIENCE TIMELINE`
 
 ```text
-2026 ─────────────────────────────────────────────────────────────► PRESENT
+2026 ───────────────────────────────────────────────────────► PRESENT
        TRAINEE EXECUTIVE — MIS & ERP
        BETOPIA GROUP · DHAKA
        JULY 15, 2026 – PRESENT
@@ -465,7 +527,7 @@ Modular backend using Celery for background task processing and Redis for cachin
        Linux + Git production debugging
 
 
-2025 ─────────────────────────────────────────────────────────────►
+2025 ───────────────────────────────────────────────────────►
        BACKEND DEVELOPER INTERN
        ROBO TECH VALLEY · DHAKA
 
@@ -476,7 +538,7 @@ Modular backend using Celery for background task processing and Redis for cachin
        Frontend API integration
 
 
-2026 ─────────────────────────────────────────────────────────────►
+2026 ───────────────────────────────────────────────────────►
        B.SC. IN COMPUTER SCIENCE & ENGINEERING
        GREEN UNIVERSITY OF BANGLADESH
        GRADUATED JANUARY 2026
@@ -484,9 +546,7 @@ Modular backend using Celery for background task processing and Redis for cachin
 
 <br>
 
-<!-- =========================================================
-07 / RESEARCH LAB
-========================================================= -->
+<a id="research-lab"></a>
 
 ## `07 // RESEARCH LAB`
 
@@ -515,19 +575,25 @@ flowchart LR
 
 The research builds an end-to-end deep learning pipeline for multi-disease retinal classification, with explainability layers so predictions can be inspected instead of treated purely as a black box.
 
-[Read the Paper](https://drive.google.com/file/d/1XVzO6kOMtIVtVqfTo52M3sQzBVn16Mk2/view)
-
-### Credential Node
-
-**Backend Developer Intern Certificate — Robo Tech Valley**
-
-[View Certificate](https://drive.google.com/file/d/1Jw82jFGXPvliJHYxBPOUh6oIlpm-j8mE/view)
+<a href="https://drive.google.com/file/d/1XVzO6kOMtIVtVqfTo52M3sQzBVn16Mk2/view"><b>READ THE PAPER</b></a>
 
 <br>
 
-<!-- =========================================================
-08 / ENGINEERING PHILOSOPHY
-========================================================= -->
+### CREDENTIAL NODE
+
+**Backend Developer Intern Certificate — Robo Tech Valley**
+
+<a href="https://drive.google.com/file/d/1Jw82jFGXPvliJHYxBPOUh6oIlpm-j8mE/view"><b>VIEW CERTIFICATE</b></a>
+
+<!-- TODO: ADD REAL ASSET
+Optional research visual:
+assets/research/ocular-xai-pipeline-1600x900.webp
+Use a real figure from your research or a diagram you create from your actual pipeline.
+-->
+
+<br>
+
+<a id="engineering-philosophy"></a>
 
 ## `08 // ENGINEERING PHILOSOPHY`
 
@@ -535,7 +601,7 @@ The research builds an end-to-end deep learning pipeline for multi-disease retin
 <tr>
 <td width="50%" valign="top">
 
-```text
+<pre>
 [01] API-FIRST DESIGN
      Clear contracts before complexity
 
@@ -551,12 +617,12 @@ The research builds an end-to-end deep learning pipeline for multi-disease retin
 
 [05] BACKGROUND PROCESSING
      Move slow work off critical paths
-```
+</pre>
 
 </td>
 <td width="50%" valign="top">
 
-```text
+<pre>
 [06] MODULAR ARCHITECTURE
      Strong separation of concerns
 
@@ -571,7 +637,7 @@ The research builds an end-to-end deep learning pipeline for multi-disease retin
 
 [10] AUDITABILITY
      Avoid invisible black-box behavior
-```
+</pre>
 
 </td>
 </tr>
@@ -579,9 +645,7 @@ The research builds an end-to-end deep learning pipeline for multi-disease retin
 
 <br>
 
-<!-- =========================================================
-09 / SYSTEM ACTIVITY
-========================================================= -->
+<a id="system-activity"></a>
 
 ## `09 // SYSTEM ACTIVITY`
 
@@ -603,18 +667,16 @@ The research builds an end-to-end deep learning pipeline for multi-disease retin
 
 </div>
 
-> The snake requires the workflow included in `.github/workflows/snake.yml`.
+> The contribution snake requires a workflow that publishes `github-contribution-grid-snake-dark.svg` to the `output` branch. Keep this image only after that workflow is active.
 
 <br>
 
-<!-- =========================================================
-10 / NEXT SYSTEMS
-========================================================= -->
+<a id="next-systems"></a>
 
 ## `10 // NEXT SYSTEMS TO MASTER`
 
 ```text
-QUEUE / ACTIVE LEARNING
+QUEUE://ACTIVE_LEARNING
 
 [>] FastAPI
 [>] Advanced PostgreSQL
@@ -625,33 +687,41 @@ QUEUE / ACTIVE LEARNING
 [>] Odoo OWL framework
 ```
 
-No fabricated percentages. These are active learning areas, not claimed mastery.
+<sub>No fabricated percentages. These are active learning areas, not claimed mastery.</sub>
 
 <br>
 
-<!-- =========================================================
-11 / BEYOND CODE
-========================================================= -->
+<a id="beyond-code"></a>
 
 ## `11 // BEYOND CODE`
 
-`PHOTOGRAPHY` · `TRAVEL` · `FOOTBALL / REAL MADRID`
+<div align="center">
+
+<code>PHOTOGRAPHY</code>
+&nbsp;·&nbsp;
+<code>TRAVEL</code>
+&nbsp;·&nbsp;
+<code>FOOTBALL / REAL MADRID</code>
+
+<br><br>
 
 <sub>A small part of the interface. Engineering stays the main signal.</sub>
 
+</div>
+
 <br>
 
-<!-- =========================================================
-12 / CONNECT
-========================================================= -->
+<a id="connect"></a>
+
+## `12 // CONNECT`
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D1117,50:10B981,100:0D1117" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0D1117,48:10B981,52:10B981,100:0D1117" alt="" />
 
 <br>
 
-## `12 // READY TO BUILD SOMETHING USEFUL?`
+### READY TO BUILD SOMETHING USEFUL?
 
 Backend systems. Enterprise software. APIs. Production engineering.
 
@@ -673,6 +743,13 @@ Backend systems. Enterprise software. APIs. Production engineering.
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D1117,50:10B981,100:0D1117" alt="" />
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=13&duration=2400&pause=1200&color=10B981&center=true&vCenter=true&repeat=true&width=620&height=30&lines=SYSTEM+READY+FOR+THE+NEXT+USEFUL+BUILD."
+  alt="System ready message"
+/>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0D1117,48:10B981,52:10B981,100:0D1117" alt="" />
 
 </div>
