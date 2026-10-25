@@ -4,7 +4,7 @@
 
 ### Hi, I'm Sharat 👋
 
-**Junior Software Engineer at Betopia Group**  
+**Junior Software Engineer **  
 Dhaka, Bangladesh 🇧🇩
 
 I work mostly with **Python, Django, and Odoo**, building APIs and customizing ERP workflows.
