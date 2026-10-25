@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:2563EB,45:7C3AED,100:06B6D4&text=Sharat%20Acharja%20Mugdho&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=JUNIOR%20SOFTWARE%20ENGINEER%20%40%20BETOPIA%20GROUP&descSize=14&descAlignY=57" alt="Sharat Acharja Mugdho — Junior Software Engineer at Betopia Group" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:2563EB,45:7C3AED,100:06B6D4&text=Sharat%20Acharja%20Mugdho&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=JUNIOR%20SOFTWARE%20ENGINEER%20%40%20BETOPIA%20GROUP&descSize=14&descAlignY=57" alt="Sharat Acharja Mugdho" />
 
 ### Hi, I'm Sharat 👋
 
