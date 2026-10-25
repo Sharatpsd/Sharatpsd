@@ -1,16 +1,13 @@
-<!-- GitHub profile README for Sharatpsd. Paste this entire file into Sharatpsd/Sharatpsd/README.md. -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:2563EB,45:7C3AED,100:06B6D4&text=Sharat%20Acharja%20Mugdho&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=BACKEND%20ENGINEERING%20%E2%80%A2%20ENTERPRISE%20ERP%20%E2%80%A2%20REST%20APIs&descSize=14&descAlignY=57" alt="Sharat Acharja Mugdho — Backend Engineering, Enterprise ERP and REST APIs" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:2563EB,45:7C3AED,100:06B6D4&text=Sharat%20Acharja%20Mugdho&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=JUNIOR%20SOFTWARE%20ENGINEER%20%40%20BETOPIA%20GROUP&descSize=14&descAlignY=57" alt="Sharat Acharja Mugdho — Junior Software Engineer at Betopia Group" />
 
-### Building the backend. Connecting the business.
+### Hi, I'm Sharat 👋
 
-I turn business workflows into **APIs, enterprise modules, and maintainable systems**.
+**Junior Software Engineer at Betopia Group**  
+Dhaka, Bangladesh 🇧🇩
 
-**Backend Engineer · Python & Django · Odoo 19 · Dhaka, Bangladesh 🇧🇩**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=1100&color=8B5CF6&center=true&vCenter=true&width=650&height=48&lines=Python+%2B+Django+%2B+PostgreSQL;Enterprise+workflows+with+Odoo+19;Clear+APIs.+Reliable+business+logic.;Always+learning.+Always+building." alt="Python, Django, PostgreSQL and Odoo developer" />
+I work mostly with **Python, Django, and Odoo**, building APIs and customizing ERP workflows.
 
 <a href="https://sharatpsd.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/sharat-acharjya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -27,23 +24,21 @@ I turn business workflows into **APIs, enterprise modules, and maintainable syst
 
 <a id="about"></a>
 
-## 👋 A little about me
+## A bit about me
 
-I'm **Sharat Acharja Mugdho**, a backend engineer working with **Django, Django REST Framework, PostgreSQL, and Odoo**. I enjoy the part of engineering where data, business rules, and real user needs come together.
+I'm a software engineer based in Dhaka. At **Betopia Group**, I work on Odoo 19 modules — writing Python models, updating views, and adapting workflows to how the business operates.
 
-- 🏢 **Currently at Betopia Group** — developing and customizing Odoo 19 modules for business workflows.
-- ⚙️ **Backend focus** — REST APIs, JWT authentication, role-based access control, and database-backed business logic.
-- 🔄 **Beyond the request cycle** — Redis caching, Celery background tasks, and automated delivery workflows.
-- 🎓 **B.Sc. in Computer Science & Engineering** — Green University of Bangladesh, January 2026.
-- 🔬 **Research interest** — explainable deep learning for ocular disease classification.
+My other projects are mostly built with **Django and Django REST Framework**. They cover food delivery, e-commerce, and order management, with authentication, database work, and background tasks along the way.
 
-> **My engineering approach:** clear contracts, explicit permissions, thoughtful data models, and code that stays understandable.
+I graduated in **Computer Science & Engineering from Green University of Bangladesh** in January 2026. I also worked on research in explainable deep learning for ocular disease classification.
+
+Outside work, I'm into photography, travel, and football. **Real Madrid** is my team. ⚽
 
 <a id="tech-stack"></a>
 
-## 🧰 My engineering toolkit
+## 🛠️ Tools I work with
 
-**Backend & enterprise**
+**Backend & ERP**
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -53,7 +48,7 @@ I'm **Sharat Acharja Mugdho**, a backend engineer working with **Django, Django 
 <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
 </p>
 
-**Data & infrastructure**
+**Databases & deployment**
 
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -74,7 +69,7 @@ I'm **Sharat Acharja Mugdho**, a backend engineer working with **Django, Django 
 </p>
 
 <details>
-<summary><b>🔎 Explore the full toolkit</b></summary>
+<summary><b>Other tools and technologies</b></summary>
 
 <br>
 
@@ -92,21 +87,9 @@ I'm **Sharat Acharja Mugdho**, a backend engineer working with **Django, Django 
 
 <br>
 
-## 🏗️ What I'm working on
-
-### Enterprise ERP at Betopia Group
-
-Connecting day-to-day business operations with customized **Odoo 19** modules.
-
-| 🧩 Business logic | 🎨 ERP interfaces | 🔐 Access & operations |
-| :--- | :--- | :--- |
-| Python models & Odoo ORM | XML views & OWL | Access rights & record rules |
-| Workflow customization | Actions & menus | PostgreSQL operations |
-| Business process automation | Workflow-driven screens | Linux, Git & production debugging |
-
 <a id="projects"></a>
 
-## 🚀 Featured projects
+## 🚀 A few things I’ve built
 
 <table>
 <tr>
@@ -115,7 +98,7 @@ Connecting day-to-day business operations with customized **Odoo 19** modules.
 <h3>🍔 Bite</h3>
 <b>Multi-role food delivery platform</b>
 
-<p>A connected ordering experience for customers, vendors, and administrators, built around authenticated APIs and role-aware workflows.</p>
+<p>A food delivery app with separate roles for customers, vendors, and admins. I built the ordering flow around a Django REST API and a React frontend.</p>
 
 <ul>
 <li>Customer, Vendor & Admin roles</li>
@@ -131,9 +114,9 @@ Connecting day-to-day business operations with customized **Odoo 19** modules.
 <td width="50%" valign="top">
 
 <h3>🥛 Daily Dairy Shop</h3>
-<b>E-commerce backend & delivery workflow</b>
+<b>Dairy shop e-commerce app</b>
 
-<p>A commerce system bringing products, inventory, shopping carts, and orders together with containerized deployment.</p>
+<p>A Django shop for managing products, stock, carts, and orders. I used Cloudinary for media storage and Docker for deployment.</p>
 
 <ul>
 <li>Product & inventory management</li>
@@ -151,11 +134,11 @@ Connecting day-to-day business operations with customized **Odoo 19** modules.
 <td colspan="2" valign="top">
 
 <h3>☕ Chai Order System</h3>
-<b>Order management with asynchronous processing</b>
+<b>Chai ordering & background tasks</b>
 
-<p>A modular Django backend combining dynamic pricing, role-aware order operations, background processing, and caching.</p>
+<p>An order management project where I worked with dynamic pricing, Redis caching, and Celery to run tasks in the background.</p>
 
-<p>⚡ Celery background tasks &nbsp;·&nbsp; 🗃️ Redis caching &nbsp;·&nbsp; 🧩 Modular business logic</p>
+<p>Celery background tasks &nbsp;·&nbsp; Redis caching &nbsp;·&nbsp; Dynamic pricing</p>
 
 <p><code>Django</code> <code>Redis</code> <code>Celery</code> <code>SQLite</code> <code>Docker</code></p>
 
@@ -165,96 +148,53 @@ Connecting day-to-day business operations with customized **Odoo 19** modules.
 </tr>
 </table>
 
-<p align="center"><a href="https://sharatpsd.netlify.app/"><b>Explore my portfolio →</b></a></p>
-
-<details>
-<summary><b>🗺️ How the pieces fit together</b></summary>
-
-<br>
-
-A simplified view of the backend and ERP patterns I work with:
-
-```mermaid
-flowchart TD
-    UI["⚛ React / TypeScript"] --> API["🔌 Django REST API"]
-    API --> AUTH["🔐 Authentication & permissions"]
-    AUTH --> LOGIC["⚙ Business logic"]
-    LOGIC --> DB[("PostgreSQL")]
-    LOGIC --> CACHE["⚡ Redis cache"]
-    LOGIC --> QUEUE["📨 Task broker"]
-    QUEUE --> WORKER["🔄 Celery workers"]
-    WORKER --> DB
-
-    ERP["🧩 Odoo · XML / OWL"] --> ORM["Python models / Odoo ORM"]
-    ORM --> ERPDB[("ERP PostgreSQL")]
-
-    classDef blue fill:#172554,stroke:#60A5FA,color:#EFF6FF
-    classDef violet fill:#2E1065,stroke:#A78BFA,color:#F5F3FF
-    classDef teal fill:#042F2E,stroke:#2DD4BF,color:#F0FDFA
-    class UI,API,AUTH blue
-    class LOGIC,QUEUE,WORKER,ERP,ORM violet
-    class DB,CACHE,ERPDB teal
-```
-
-</details>
+<p align="center"><a href="https://sharatpsd.netlify.app/"><b>More on my portfolio →</b></a></p>
 
 <a id="experience"></a>
 
 ## 💼 Experience & education
 
-### 🟣 Trainee Executive — MIS & ERP
-**Betopia Group · Dhaka**  
-July 15, 2026 – Present
+### Junior Software Engineer
+**Betopia Group · Dhaka** · Current
 
-Odoo 19 module development and customization using Python, Odoo ORM, and XML views. Work includes business workflows, access rights, record rules, actions, menus, PostgreSQL operations, and production debugging with Linux and Git.
+I develop and customize **Odoo 19** modules for business workflows. My work includes:
 
-### 🔵 Backend Developer Intern
+- Python models, Odoo ORM, and XML views.
+- Access rights, record rules, actions, and menus.
+- PostgreSQL operations and debugging with Linux and Git.
+
+### Backend Developer Intern
 **Robo Tech Valley · Dhaka**  
 2025
 
-Developed Django REST Framework APIs, JWT and refresh-token workflows, and role-based access for multi-role applications. Worked on ORM/query optimization and frontend API integration.
+I worked on Django REST Framework APIs, JWT authentication and refresh tokens, and role-based access. I also helped with query optimization and connecting the APIs to the frontend.
 
 [📄 View internship certificate](https://drive.google.com/file/d/1Jw82jFGXPvliJHYxBPOUh6oIlpm-j8mE/view)
 
-### 🎓 B.Sc. in Computer Science & Engineering
+### B.Sc. in Computer Science & Engineering
 **Green University of Bangladesh**  
 Graduated January 2026
 
 <a id="research"></a>
 
-## 🔬 Research & explainable AI
+## 🔬 Research
 
 ### Explainable Deep Learning for Multi-Disease Ocular Classification and Severity-Aware Myopia Analysis
 
-**IEEE-published research** focused on multi-disease retinal classification and interpretable model predictions.
+My **IEEE-published research** explores retinal disease classification with ResNet50 and uses Grad-CAM and SHAP to help explain the predictions.
 
 <p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/ResNet50-7C3AED?style=for-the-badge&logo=resnet50&logoColor=white" alt="ResNet50" />
-<img src="https://img.shields.io/badge/Grad-CAM-0891B2?style=for-the-badge&logo=grad-cam&logoColor=white" alt="Grad-CAM" />
-<img src="https://img.shields.io/badge/SHAP-DB2777?style=for-the-badge&logo=shap&logoColor=white" alt="SHAP" />
+<img src="https://img.shields.io/badge/ResNet50-7C3AED?style=for-the-badge&logoColor=white" alt="ResNet50" />
+<img src="https://img.shields.io/badge/Grad--CAM-0891B2?style=for-the-badge&logoColor=white" alt="Grad-CAM" />
+<img src="https://img.shields.io/badge/SHAP-DB2777?style=for-the-badge&logoColor=white" alt="SHAP" />
 </p>
-
-- **Classification:** an end-to-end deep learning pipeline using ResNet50.
-- **Visual explanations:** Grad-CAM for inspecting regions associated with predictions.
-- **Interpretability:** SHAP to help examine model behavior.
 
 [📑 Read the research paper →](https://drive.google.com/file/d/1XVzO6kOMtIVtVqfTo52M3sQzBVn16Mk2/view)
 
-## 🌱 Currently exploring
+## 🌱 What I’m learning
 
-**FastAPI** · **Advanced PostgreSQL** · **Redis patterns** · **Celery at scale** · **System design** · **Cloud & DevOps** · **Odoo OWL**
-
-## 🎯 Principles I build with
-
-| Principle | What it means in practice |
-| :--- | :--- |
-| 🔌 **API-first design** | Clear contracts and predictable behavior |
-| 🔐 **Explicit access control** | Authentication and authorization designed into the system |
-| 🗃️ **Database-aware development** | Data models and queries shaped by real access patterns |
-| ⚡ **Responsive workflows** | Background processing for work that can leave the request path |
-| 🧩 **Maintainable architecture** | Focused modules, clear responsibilities, and understandable code |
-| 🔍 **Evidence-driven delivery** | Production debugging, automation, and inspectable behavior |
+I’m spending more time on **PostgreSQL, system design, and Odoo’s OWL framework**. FastAPI, Redis patterns, Celery, and cloud deployment are also on my learning list.
 
 <details>
 <summary><b>📊 GitHub activity</b></summary>
@@ -267,27 +207,17 @@ Graduated January 2026
 
 </details>
 
-<br>
-
-<div align="center">
-
-### 📸 Beyond the keyboard
-
-Photography &nbsp;·&nbsp; Travel &nbsp;·&nbsp; Football &nbsp;·&nbsp; Real Madrid ⚽
-
-</div>
-
 <a id="connect"></a>
 
 ---
 
 <div align="center">
 
-## 🤝 Let's build something useful
+## Get in touch
 
-**Backend systems · Enterprise software · Thoughtful APIs**
+You can find my projects on my portfolio, or reach me on LinkedIn and email.
 
-Have a project or an engineering idea in mind? Let's connect.
+**[sharatacharjee6@gmail.com](mailto:sharatacharjee6@gmail.com)**
 
 <a href="https://sharatpsd.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/sharat-acharjya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
