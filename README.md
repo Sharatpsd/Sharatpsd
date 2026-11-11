@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.gif" width="100%" alt="Sharat Acharja Mugdho — Python, Django and Odoo engineer. Animated orbital artwork." />
+<img src="assets/hero.gif" width="100%" alt="Sharat Acharja Mugdho — Software Engineer" />
 
 <br />
 
@@ -22,13 +22,15 @@
 
 ## Business logic. Thoughtful software.
 
-I'm a software engineer based in Dhaka. At **Betopia Group**, I work on Odoo 19 modules — writing Python models, updating views, and adapting workflows to how the business operates.
+I'm a software engineer based in Dhaka. At **Betopia Group**, I work on **Odoo 19** modules — writing Python models, updating views, and adapting workflows to how the business operates.
 
 My other projects are mostly built with **Django and Django REST Framework**. They cover food delivery, e-commerce, and order management, with authentication, database work, and background tasks along the way.
 
 I graduated in **Computer Science & Engineering from Green University of Bangladesh** in January 2026. I also worked on research in explainable deep learning for ocular disease classification.
 
 Outside work, I'm into photography, travel, and football. **Real Madrid** is my team. ⚽
+
+<br />
 
 <a id="projects"></a>
 
@@ -51,7 +53,11 @@ Outside work, I'm into photography, travel, and football. **Real Madrid** is my 
 
 <p><code>Django</code> <code>DRF</code> <code>React</code> <code>PostgreSQL</code> <code>Tailwind CSS</code></p>
 
-<p><a href="https://github.com/Sharatpsd/Food-Delivery-App-"><b>View code ↗</b></a> &nbsp;·&nbsp; <a href="https://bite-bd.onrender.com/"><b>Live demo ↗</b></a></p>
+<p>
+<a href="https://github.com/Sharatpsd/Food-Delivery-App-"><b>View code ↗</b></a>
+&nbsp;·&nbsp;
+<a href="https://bite-bd.onrender.com/"><b>Live demo ↗</b></a>
+</p>
 
 </td>
 <td width="50%" valign="top">
@@ -69,7 +75,11 @@ Outside work, I'm into photography, travel, and football. **Real Madrid** is my 
 
 <p><code>Django</code> <code>PostgreSQL</code> <code>Docker</code> <code>Cloudinary</code> <code>GitHub Actions</code></p>
 
-<p><a href="https://github.com/Sharatpsd/DailyDairyShop"><b>View code ↗</b></a> &nbsp;·&nbsp; <a href="https://dailydairyshop-3.onrender.com/"><b>Live demo ↗</b></a></p>
+<p>
+<a href="https://github.com/Sharatpsd/DailyDairyShop"><b>View code ↗</b></a>
+&nbsp;·&nbsp;
+<a href="https://dailydairyshop-3.onrender.com/"><b>Live demo ↗</b></a>
+</p>
 
 </td>
 </tr>
@@ -85,14 +95,21 @@ Outside work, I'm into photography, travel, and football. **Real Madrid** is my 
 
 <p><code>Django</code> <code>Redis</code> <code>Celery</code> <code>SQLite</code> <code>Docker</code></p>
 
-<p><a href="https://github.com/Sharatpsd/chai-order-system"><b>View code ↗</b></a> &nbsp;·&nbsp; <a href="https://chai-order-system-5.onrender.com/"><b>Live demo ↗</b></a></p>
+<p>
+<a href="https://github.com/Sharatpsd/chai-order-system"><b>View code ↗</b></a>
+&nbsp;·&nbsp;
+<a href="https://chai-order-system-5.onrender.com/"><b>Live demo ↗</b></a>
+</p>
 
 </td>
 </tr>
 </table>
 
-<p align="center"><a href="https://sharatpsd.netlify.app/"><b>More on my portfolio →</b></a></p>
+<p align="center">
+<a href="https://sharatpsd.netlify.app/"><b>More on my portfolio →</b></a>
+</p>
 
+<br />
 
 <a id="tech-stack"></a>
 
@@ -131,7 +148,7 @@ Outside work, I'm into photography, travel, and football. **Real Madrid** is my 
 <details>
 <summary><b>Other tools and technologies</b></summary>
 
-<br>
+<br />
 
 | Area | Technologies & practices |
 | :--- | :--- |
@@ -145,7 +162,7 @@ Outside work, I'm into photography, travel, and football. **Real Madrid** is my 
 
 </details>
 
-<br>
+<br />
 
 <a id="experience"></a>
 
@@ -166,11 +183,13 @@ I develop and customize **Odoo 19** modules for business workflows. My work incl
 
 I worked on Django REST Framework APIs, JWT authentication and refresh tokens, and role-based access. I also helped with query optimization and connecting the APIs to the frontend.
 
-[📄 View internship certificate](https://drive.google.com/file/d/1Jw82jFGXPvliJHYxBPOUh6oIlpm-j8mE/view)
+[View internship certificate ↗](https://drive.google.com/file/d/1Jw82jFGXPvliJHYxBPOUh6oIlpm-j8mE/view)
 
 ### B.Sc. in Computer Science & Engineering
 **Green University of Bangladesh**  
 Graduated January 2026
+
+<br />
 
 <a id="research"></a>
 
@@ -187,22 +206,26 @@ My **IEEE-published research** explores retinal disease classification with ResN
 <img src="https://img.shields.io/badge/SHAP-172019?style=for-the-badge&logoColor=CBFF70" alt="SHAP" />
 </p>
 
-[📑 Read the research paper →](https://drive.google.com/file/d/1XVzO6kOMtIVtVqfTo52M3sQzBVn16Mk2/view)
+[Read the research paper →](https://drive.google.com/file/d/1XVzO6kOMtIVtVqfTo52M3sQzBVn16Mk2/view)
+
+<br />
 
 ## Next on the horizon
 
 I’m spending more time on **PostgreSQL, system design, and Odoo’s OWL framework**. FastAPI, Redis patterns, Celery, and cloud deployment are also on my learning list.
 
 <details>
-<summary><b>📊 GitHub activity</b></summary>
+<summary><b>GitHub activity</b></summary>
 
-<br>
+<br />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sharatpsd&bg_color=0B0F0F&color=CBFF70&line=CBFF70&point=F2F5ED&area=true&area_color=425B2E&hide_border=true&radius=12" alt="GitHub contribution activity for Sharatpsd" />
 
 [View my contributions on GitHub →](https://github.com/Sharatpsd?tab=overview)
 
 </details>
+
+<br />
 
 <a id="connect"></a>
 
@@ -221,10 +244,8 @@ You can find my projects on my portfolio, or reach me on LinkedIn and email.
 <a href="mailto:sharatacharjee6@gmail.com"><img src="https://img.shields.io/badge/Email-172019?style=for-the-badge&logo=gmail&logoColor=CBFF70" alt="Email" /></a>
 <a href="https://wa.me/8801783720914"><img src="https://img.shields.io/badge/WhatsApp-172019?style=for-the-badge&logo=whatsapp&logoColor=CBFF70" alt="WhatsApp" /></a>
 
-<br>
+<br /><br />
 
 📍 **Dhaka, Bangladesh**
-
-
 
 </div>
