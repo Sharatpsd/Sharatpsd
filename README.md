@@ -38,30 +38,13 @@
 
 <br />
 
-## Odoo · Module experience
+## Odoo · Core expertise
 
-I work across the **Odoo ecosystem**, developing and customizing modules and connecting business workflows. My core expertise includes **HRMS, Accounting, and Sales**.
+My core expertise is in **HRMS, Accounting, and Sales**—developing and customizing Odoo modules around everyday business requirements.
 
-<a href="assets/odoo-module-map.svg"><img src="assets/odoo-module-map.svg" width="100%" alt="Odoo module experience: 50 main apps across HRMS, Finance, Sales, Supply Chain, Services, Website, Marketing, Productivity and Customization. HRMS, Accounting and Sales are core areas of expertise." /></a>
+<img src="assets/odoo-core-expertise.svg" width="100%" alt="Core Odoo expertise: HRMS for human resource workflows, Accounting for accounting workflows, and Sales for sales operations. Module development and customization across all three." />
 
-<details>
-<summary><b>Explore the modules by business area</b></summary>
-
-- **HRMS / Human Resources:** Employees, Recruitment, Time Off, Appraisals, Payroll, Referral, Fleet.
-- **Finance:** Accounting, Invoicing, Expenses, Documents, Spreadsheets, Sign, ESG.
-- **Sales:** CRM, Sales, Point of Sale, Subscriptions, Rental.
-- **Inventory & Manufacturing:** Inventory, Manufacturing, PLM, Purchase, Maintenance, Quality.
-- **Services:** Project, Timesheet, Field Service, Helpdesk, Planning, Appointments.
-- **Website:** Website, eCommerce, Blog, Forum, eLearning, Live Chat.
-- **Marketing:** Marketing Automation, Email Marketing, SMS Marketing, Social Marketing, Events, Survey.
-- **Productivity:** Discuss, Approvals, Internet of Things, VOIP, Knowledge, AI.
-- **Customization:** Studio.
-
-</details>
-
-**Across modules:** Python · Odoo ORM · XML views · Access rights & record rules · PostgreSQL · Business workflow integration
-
-<sub>Main application names and icons: <a href="https://www.odoo.com/page/all-apps">Odoo official app catalog</a>. The visual groups main apps; it is not an inventory of every technical or third-party addon.</sub>
+**Implementation:** Python · Odoo ORM · XML views · Access rights & record rules · PostgreSQL · Connected business workflows
 
 <br />
 
