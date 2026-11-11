@@ -38,13 +38,21 @@
 
 <br />
 
-## Odoo · Core expertise
+<div align="center">
 
-My core expertise is in **HRMS, Accounting, and Sales**—developing and customizing Odoo modules around everyday business requirements.
+<h2>Odoo · Business module expertise</h2>
 
-<img src="assets/odoo-core-expertise.svg" width="100%" alt="Core Odoo expertise: HRMS for human resource workflows, Accounting for accounting workflows, and Sales for sales operations. Module development and customization across all three." />
+<p>Hands-on module development and customization across key business functions.<br />
+Core strengths: <b>HRMS, Accounting, and Sales</b>.</p>
 
-**Implementation:** Python · Odoo ORM · XML views · Access rights & record rules · PostgreSQL · Connected business workflows
+<img src="assets/odoo-main-modules.svg" width="100%" alt="Ten main Odoo modules in a centered grid: HRMS, Payroll, Attendance, Accounting, Sales, CRM, Purchase, Inventory, Project and Helpdesk." />
+
+<p><b>HRMS · Payroll · Attendance · Accounting · Sales<br />
+CRM · Purchase · Inventory · Project · Helpdesk</b></p>
+
+<p>Python · Odoo ORM · XML views · Access rights &amp; record rules · PostgreSQL</p>
+
+</div>
 
 <br />
 
