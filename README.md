@@ -38,20 +38,9 @@
 
 <br />
 
+<a id="odoo--business-module-expertise"></a>
 <div align="center">
-
-<h2>Odoo · Business module expertise</h2>
-
-<p>Hands-on module development and customization across key business functions.<br />
-Core strengths: <b>HRMS, Accounting, and Sales</b>.</p>
-
-<img src="assets/odoo-main-modules.svg" width="100%" alt="Ten main Odoo modules in a centered grid: HRMS, Payroll, Attendance, Accounting, Sales, CRM, Purchase, Inventory, Project and Helpdesk." />
-
-<p><b>HRMS · Payroll · Attendance · Accounting · Sales<br />
-CRM · Purchase · Inventory · Project · Helpdesk</b></p>
-
-<p>Python · Odoo ORM · XML views · Access rights &amp; record rules · PostgreSQL</p>
-
+<img src="assets/odoo-main-modules.svg" width="100%" alt="Odoo expertise: HRMS, Payroll, Attendance, Accounting, Sales, CRM, Purchase, Inventory, Project and Helpdesk." />
 </div>
 
 <br />
