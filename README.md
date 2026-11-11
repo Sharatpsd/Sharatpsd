@@ -38,16 +38,30 @@
 
 <br />
 
-## Core expertise · Odoo ERP
+## Odoo · Module experience
 
-Extensive hands-on experience developing and customizing **HRMS, Accounting, and Sales modules** for business operations.
+I work across the **Odoo ecosystem**, developing and customizing modules and connecting business workflows. My core expertise includes **HRMS, Accounting, and Sales**.
 
-| HRMS | Accounting | Sales |
-| :--- | :--- | :--- |
-| **Module development & customization** | **Module development & customization** | **Module development & customization** |
-| Adapting HR workflows to organizational requirements. | Adapting accounting workflows to business requirements. | Adapting sales workflows to how teams operate. |
+<a href="assets/odoo-module-map.svg"><img src="assets/odoo-module-map.svg" width="100%" alt="Odoo module experience: 50 main apps across HRMS, Finance, Sales, Supply Chain, Services, Website, Marketing, Productivity and Customization. HRMS, Accounting and Sales are core areas of expertise." /></a>
 
-**Across these modules:** Python business logic · Odoo ORM · XML views · Access rights & record rules · PostgreSQL · Connected ERP workflows
+<details>
+<summary><b>Explore the modules by business area</b></summary>
+
+- **HRMS / Human Resources:** Employees, Recruitment, Time Off, Appraisals, Payroll, Referral, Fleet.
+- **Finance:** Accounting, Invoicing, Expenses, Documents, Spreadsheets, Sign, ESG.
+- **Sales:** CRM, Sales, Point of Sale, Subscriptions, Rental.
+- **Inventory & Manufacturing:** Inventory, Manufacturing, PLM, Purchase, Maintenance, Quality.
+- **Services:** Project, Timesheet, Field Service, Helpdesk, Planning, Appointments.
+- **Website:** Website, eCommerce, Blog, Forum, eLearning, Live Chat.
+- **Marketing:** Marketing Automation, Email Marketing, SMS Marketing, Social Marketing, Events, Survey.
+- **Productivity:** Discuss, Approvals, Internet of Things, VOIP, Knowledge, AI.
+- **Customization:** Studio.
+
+</details>
+
+**Across modules:** Python · Odoo ORM · XML views · Access rights & record rules · PostgreSQL · Business workflow integration
+
+<sub>Main application names and icons: <a href="https://www.odoo.com/page/all-apps">Odoo official app catalog</a>. The visual groups main apps; it is not an inventory of every technical or third-party addon.</sub>
 
 <br />
 
