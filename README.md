@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="assets/hero.gif" width="100%" alt="Sharat Acharja Mugdho — Software Engineer" />
+<img src="assets/portfolio-hero.gif" width="100%" alt="Sharat Acharja Mugdho — Software Engineer" />
 
 <br />
 
 **Backend engineering · ERP customization · Real-world applications**
 
-<a href="https://sharatpsd.netlify.app/"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-CBFF70?style=for-the-badge&logo=googlechrome&logoColor=0B0F0F" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/sharat-acharjya"><img src="https://img.shields.io/badge/LINKEDIN-172019?style=for-the-badge&logo=linkedin&logoColor=CBFF70" alt="LinkedIn" /></a>
-<a href="mailto:sharatacharjee6@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-172019?style=for-the-badge&logo=gmail&logoColor=CBFF70" alt="Email" /></a>
+<a href="https://sharatpsd.netlify.app/"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=060B1B" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/sharat-acharjya"><img src="https://img.shields.io/badge/LINKEDIN-101B32?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" /></a>
+<a href="mailto:sharatacharjee6@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-101B32?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" /></a>
 
 <br /><br />
 
@@ -20,26 +20,34 @@
 
 <a id="about"></a>
 
-## Business logic. Thoughtful software.
-
-I'm a software engineer based in Dhaka. At **Betopia Group**, I work on **Odoo 19** modules — writing Python models, updating views, and adapting workflows to how the business operates.
-
-My other projects are mostly built with **Django and Django REST Framework**. They cover food delivery, e-commerce, and order management, with authentication, database work, and background tasks along the way.
-
-I graduated in **Computer Science & Engineering from Green University of Bangladesh** in January 2026. I also worked on research in explainable deep learning for ocular disease classification.
-
-Outside work, I'm into photography, travel, and football. **Real Madrid** is my team. ⚽
+<table>
+<tr>
+<td width="26%" valign="top">
+<img src="assets/portrait.png" width="100%" alt="Sharat Acharja Mugdho" />
+</td>
+<td width="74%" valign="top">
+<h2>Behind the code</h2>
+<p>I'm <b>Sharat</b>, a software engineer based in <b>Dhaka, Bangladesh</b>. I build backend systems, connect APIs to interfaces, and adapt software to real business workflows.</p>
+<p>At <b>Betopia Group</b>, I develop and customize <b>Odoo 19</b> modules with Python, Odoo ORM, and XML views. My personal projects bring together <b>Django, DRF, React, and PostgreSQL</b>.</p>
+<p><b>CSE graduate</b> · Green University of Bangladesh, January 2026<br />
+<b>Research interest</b> · Explainable deep learning for ocular disease classification</p>
+<p>Beyond the terminal: photography, travel, and Real Madrid. ⚽</p>
+</td>
+</tr>
+</table>
 
 <br />
 
 <a id="projects"></a>
 
-<img src="assets/work.png" width="100%" alt="01 — Selected work" />
+<img src="assets/portfolio-work.png" width="100%" alt="01 — Selected work" />
+
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://food-delivery-frontend-mktt.onrender.com/"><img src="assets/bite.png" width="100%" alt="Bite — food delivery platform preview" /></a>
 <h3>01 / Bite</h3>
 <b>Multi-role food delivery platform</b>
 
@@ -56,12 +64,13 @@ Outside work, I'm into photography, travel, and football. **Real Madrid** is my 
 <p>
 <a href="https://github.com/Sharatpsd/Food-Delivery-App-"><b>View code ↗</b></a>
 &nbsp;·&nbsp;
-<a href="https://bite-bd.onrender.com/"><b>Live demo ↗</b></a>
+<a href="https://food-delivery-frontend-mktt.onrender.com/"><b>Live demo ↗</b></a>
 </p>
 
 </td>
 <td width="50%" valign="top">
 
+<a href="https://dailydairyshop-3.onrender.com/"><img src="assets/dairy.png" width="100%" alt="Daily Dairy Shop preview" /></a>
 <h3>02 / Daily Dairy Shop</h3>
 <b>Dairy shop e-commerce app</b>
 
@@ -84,8 +93,9 @@ Outside work, I'm into photography, travel, and football. **Real Madrid** is my 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
+<a href="https://chai-order-system-5.onrender.com/"><img src="assets/chai.png" width="100%" alt="Chai Order System preview" /></a>
 <h3>03 / Chai Order System</h3>
 <b>Chai ordering & background tasks</b>
 
@@ -102,6 +112,14 @@ Outside work, I'm into photography, travel, and football. **Real Madrid** is my 
 </p>
 
 </td>
+<td width="50%" valign="top">
+<a href="https://ai-career-guidance.onrender.com/"><img src="assets/career.png" width="100%" alt="Smart Career preview" /></a>
+<h3>04 / Smart Career</h3>
+<b>Machine learning career recommendations</b>
+<p>A career recommendation project using Python, Django, and machine learning models to explore career paths.</p>
+<p><code>Python</code> <code>Django</code> <code>scikit-learn</code> <code>Pandas</code></p>
+<p><a href="https://github.com/Sharatpsd/smart-career-prediction-using-ml"><b>View code ↗</b></a> &nbsp;·&nbsp; <a href="https://ai-career-guidance.onrender.com/"><b>Live demo ↗</b></a></p>
+</td>
 </tr>
 </table>
 
@@ -113,36 +131,37 @@ Outside work, I'm into photography, travel, and football. **Real Madrid** is my 
 
 <a id="tech-stack"></a>
 
-<img src="assets/stack.png" width="100%" alt="02 — The toolkit" />
+<img src="assets/portfolio-stack.png" width="100%" alt="02 — The toolkit" />
+
 
 **Backend & ERP**
 
 <p>
-<img src="https://img.shields.io/badge/Python-172019?style=for-the-badge&logo=python&logoColor=CBFF70" alt="Python" />
-<img src="https://img.shields.io/badge/Django-172019?style=for-the-badge&logo=django&logoColor=CBFF70" alt="Django" />
-<img src="https://img.shields.io/badge/Django%20REST-172019?style=for-the-badge&logo=django&logoColor=CBFF70" alt="Django REST" />
-<img src="https://img.shields.io/badge/Odoo%2019-172019?style=for-the-badge&logo=odoo&logoColor=CBFF70" alt="Odoo 19" />
-<img src="https://img.shields.io/badge/Celery-172019?style=for-the-badge&logo=celery&logoColor=CBFF70" alt="Celery" />
+<img src="https://img.shields.io/badge/Python-101B32?style=for-the-badge&logo=python&logoColor=22D3EE" alt="Python" />
+<img src="https://img.shields.io/badge/Django-101B32?style=for-the-badge&logo=django&logoColor=22D3EE" alt="Django" />
+<img src="https://img.shields.io/badge/Django%20REST-101B32?style=for-the-badge&logo=django&logoColor=22D3EE" alt="Django REST" />
+<img src="https://img.shields.io/badge/Odoo%2019-101B32?style=for-the-badge&logo=odoo&logoColor=22D3EE" alt="Odoo 19" />
+<img src="https://img.shields.io/badge/Celery-101B32?style=for-the-badge&logo=celery&logoColor=22D3EE" alt="Celery" />
 </p>
 
 **Databases & deployment**
 
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-172019?style=for-the-badge&logo=postgresql&logoColor=CBFF70" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Redis-172019?style=for-the-badge&logo=redis&logoColor=CBFF70" alt="Redis" />
-<img src="https://img.shields.io/badge/Docker-172019?style=for-the-badge&logo=docker&logoColor=CBFF70" alt="Docker" />
-<img src="https://img.shields.io/badge/Linux-172019?style=for-the-badge&logo=linux&logoColor=CBFF70" alt="Linux" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-172019?style=for-the-badge&logo=githubactions&logoColor=CBFF70" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/PostgreSQL-101B32?style=for-the-badge&logo=postgresql&logoColor=22D3EE" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Redis-101B32?style=for-the-badge&logo=redis&logoColor=22D3EE" alt="Redis" />
+<img src="https://img.shields.io/badge/Docker-101B32?style=for-the-badge&logo=docker&logoColor=22D3EE" alt="Docker" />
+<img src="https://img.shields.io/badge/Linux-101B32?style=for-the-badge&logo=linux&logoColor=22D3EE" alt="Linux" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-101B32?style=for-the-badge&logo=githubactions&logoColor=22D3EE" alt="GitHub Actions" />
 </p>
 
 **Frontend & tooling**
 
 <p>
-<img src="https://img.shields.io/badge/React-172019?style=for-the-badge&logo=react&logoColor=CBFF70" alt="React" />
-<img src="https://img.shields.io/badge/TypeScript-172019?style=for-the-badge&logo=typescript&logoColor=CBFF70" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-172019?style=for-the-badge&logo=tailwindcss&logoColor=CBFF70" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Git-172019?style=for-the-badge&logo=git&logoColor=CBFF70" alt="Git" />
-<img src="https://img.shields.io/badge/Postman-172019?style=for-the-badge&logo=postman&logoColor=CBFF70" alt="Postman" />
+<img src="https://img.shields.io/badge/React-101B32?style=for-the-badge&logo=react&logoColor=22D3EE" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-101B32?style=for-the-badge&logo=typescript&logoColor=22D3EE" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-101B32?style=for-the-badge&logo=tailwindcss&logoColor=22D3EE" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Git-101B32?style=for-the-badge&logo=git&logoColor=22D3EE" alt="Git" />
+<img src="https://img.shields.io/badge/Postman-101B32?style=for-the-badge&logo=postman&logoColor=22D3EE" alt="Postman" />
 </p>
 
 <details>
@@ -166,7 +185,8 @@ Outside work, I'm into photography, travel, and football. **Real Madrid** is my 
 
 <a id="experience"></a>
 
-<img src="assets/journey.png" width="100%" alt="03 — Learning by building" />
+<img src="assets/portfolio-journey.png" width="100%" alt="03 — Learning by building" />
+
 
 ### Junior Software Engineer
 **Betopia Group · Dhaka** · Current
@@ -193,17 +213,18 @@ Graduated January 2026
 
 <a id="research"></a>
 
-<img src="assets/research.png" width="100%" alt="04 — Beyond the code" />
+<img src="assets/portfolio-research.png" width="100%" alt="04 — Beyond the code" />
+
 
 ### Explainable Deep Learning for Multi-Disease Ocular Classification and Severity-Aware Myopia Analysis
 
 My **IEEE-published research** explores retinal disease classification with ResNet50 and uses Grad-CAM and SHAP to help explain the predictions.
 
 <p>
-<img src="https://img.shields.io/badge/PyTorch-172019?style=for-the-badge&logo=pytorch&logoColor=CBFF70" alt="PyTorch" />
-<img src="https://img.shields.io/badge/ResNet50-172019?style=for-the-badge&logoColor=CBFF70" alt="ResNet50" />
-<img src="https://img.shields.io/badge/Grad--CAM-172019?style=for-the-badge&logoColor=CBFF70" alt="Grad-CAM" />
-<img src="https://img.shields.io/badge/SHAP-172019?style=for-the-badge&logoColor=CBFF70" alt="SHAP" />
+<img src="https://img.shields.io/badge/PyTorch-101B32?style=for-the-badge&logo=pytorch&logoColor=22D3EE" alt="PyTorch" />
+<img src="https://img.shields.io/badge/ResNet50-101B32?style=for-the-badge&logoColor=22D3EE" alt="ResNet50" />
+<img src="https://img.shields.io/badge/Grad--CAM-101B32?style=for-the-badge&logoColor=22D3EE" alt="Grad-CAM" />
+<img src="https://img.shields.io/badge/SHAP-101B32?style=for-the-badge&logoColor=22D3EE" alt="SHAP" />
 </p>
 
 [Read the research paper →](https://drive.google.com/file/d/1XVzO6kOMtIVtVqfTo52M3sQzBVn16Mk2/view)
@@ -219,7 +240,7 @@ I’m spending more time on **PostgreSQL, system design, and Odoo’s OWL framew
 
 <br />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sharatpsd&bg_color=0B0F0F&color=CBFF70&line=CBFF70&point=F2F5ED&area=true&area_color=425B2E&hide_border=true&radius=12" alt="GitHub contribution activity for Sharatpsd" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sharatpsd&bg_color=060B1B&color=22D3EE&line=22D3EE&point=E7F0FF&area=true&area_color=183C69&hide_border=true&radius=12" alt="GitHub contribution activity for Sharatpsd" />
 
 [View my contributions on GitHub →](https://github.com/Sharatpsd?tab=overview)
 
@@ -239,10 +260,10 @@ You can find my projects on my portfolio, or reach me on LinkedIn and email.
 
 **[sharatacharjee6@gmail.com](mailto:sharatacharjee6@gmail.com)**
 
-<a href="https://sharatpsd.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-172019?style=for-the-badge&logo=googlechrome&logoColor=CBFF70" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/sharat-acharjya"><img src="https://img.shields.io/badge/LinkedIn-172019?style=for-the-badge&logo=linkedin&logoColor=CBFF70" alt="LinkedIn" /></a>
-<a href="mailto:sharatacharjee6@gmail.com"><img src="https://img.shields.io/badge/Email-172019?style=for-the-badge&logo=gmail&logoColor=CBFF70" alt="Email" /></a>
-<a href="https://wa.me/8801783720914"><img src="https://img.shields.io/badge/WhatsApp-172019?style=for-the-badge&logo=whatsapp&logoColor=CBFF70" alt="WhatsApp" /></a>
+<a href="https://sharatpsd.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-101B32?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/sharat-acharjya"><img src="https://img.shields.io/badge/LinkedIn-101B32?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" /></a>
+<a href="mailto:sharatacharjee6@gmail.com"><img src="https://img.shields.io/badge/Email-101B32?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" /></a>
+<a href="https://wa.me/8801783720914"><img src="https://img.shields.io/badge/WhatsApp-101B32?style=for-the-badge&logo=whatsapp&logoColor=22D3EE" alt="WhatsApp" /></a>
 
 <br /><br />
 
