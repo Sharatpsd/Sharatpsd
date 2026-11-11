@@ -4,7 +4,7 @@
 
 <br />
 
-**Backend engineering · ERP customization · Real-world applications**
+**Odoo ERP · HRMS · Accounting · Sales · Backend Engineering**
 
 <a href="https://sharatpsd.netlify.app/"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=060B1B" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/sharat-acharjya"><img src="https://img.shields.io/badge/LINKEDIN-101B32?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" /></a>
@@ -28,13 +28,26 @@
 <td width="74%" valign="top">
 <h2>Behind the code</h2>
 <p>I'm <b>Sharat</b>, a software engineer based in <b>Dhaka, Bangladesh</b>. I build backend systems, connect APIs to interfaces, and adapt software to real business workflows.</p>
-<p>At <b>Betopia Group</b>, I develop and customize <b>Odoo 19</b> modules with Python, Odoo ORM, and XML views. My personal projects bring together <b>Django, DRF, React, and PostgreSQL</b>.</p>
+<p>At <b>Betopia Group</b>, I work extensively on <b>HRMS, Accounting, and Sales modules</b> in <b>Odoo 19</b>. These are my core areas of expertise: developing modules, customizing business workflows, and connecting processes across the ERP. My work uses <b>Python, Odoo ORM, XML views, and PostgreSQL</b>, alongside personal projects built with <b>Django, DRF, and React</b>.</p>
 <p><b>CSE graduate</b> · Green University of Bangladesh, January 2026<br />
 <b>Research interest</b> · Explainable deep learning for ocular disease classification</p>
 <p>Beyond the terminal: photography, travel, and Real Madrid. ⚽</p>
 </td>
 </tr>
 </table>
+
+<br />
+
+## Core expertise · Odoo ERP
+
+Extensive hands-on experience developing and customizing **HRMS, Accounting, and Sales modules** for business operations.
+
+| HRMS | Accounting | Sales |
+| :--- | :--- | :--- |
+| **Module development & customization** | **Module development & customization** | **Module development & customization** |
+| Adapting HR workflows to organizational requirements. | Adapting accounting workflows to business requirements. | Adapting sales workflows to how teams operate. |
+
+**Across these modules:** Python business logic · Odoo ORM · XML views · Access rights & record rules · PostgreSQL · Connected ERP workflows
 
 <br />
 
@@ -172,7 +185,7 @@
 | Area | Technologies & practices |
 | :--- | :--- |
 | **Backend & APIs** | Python, Django, Django REST Framework, Celery, REST APIs, JWT, RBAC |
-| **Enterprise ERP** | Odoo 19, Odoo ORM, XML Views, OWL, Actions & Menus, Access Rights, Record Rules |
+| **Enterprise ERP** | Odoo 19, HRMS, Accounting, Sales, Odoo ORM, XML Views, OWL, Actions & Menus, Access Rights, Record Rules |
 | **Data & caching** | PostgreSQL, Redis, MySQL, SQLite |
 | **Frontend** | React, TypeScript, JavaScript, Tailwind CSS, Vite |
 | **Delivery & hosting** | Docker, Linux, GitHub Actions, Render, Vercel, Netlify, Cloudinary |
@@ -191,11 +204,13 @@
 ### Junior Software Engineer
 **Betopia Group · Dhaka** · Current
 
-I develop and customize **Odoo 19** modules for business workflows. My work includes:
+I work extensively on **Odoo 19 HRMS, Accounting, and Sales modules**, with hands-on expertise in module development, customization, and business workflow integration.
 
-- Python models, Odoo ORM, and XML views.
-- Access rights, record rules, actions, and menus.
-- PostgreSQL operations and debugging with Linux and Git.
+- **HRMS:** Develop and customize modules to support HR processes and organizational requirements.
+- **Accounting:** Develop and customize modules to support accounting processes and business requirements.
+- **Sales:** Develop and customize modules to support sales operations and connected business workflows.
+- **Implementation:** Build Python models, Odoo ORM logic, XML views, actions, and menus.
+- **Access & data:** Configure access rights and record rules, work with PostgreSQL, and debug using Linux and Git.
 
 ### Backend Developer Intern
 **Robo Tech Valley · Dhaka**  
